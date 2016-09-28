@@ -1,0 +1,11 @@
+# R history
+.Rhistory
+
+# R data
+.RData
+
+# R project
+.RProj
+
+# Data conversion R file
+data_reformat.R
