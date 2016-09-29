@@ -5,7 +5,10 @@
 .RData
 
 # R project
-.RProj
+*.RProj
+
+# RStudio Data
+.Rproj.user
 
 # Data conversion R file
 data_reformat.R

@@ -1,0 +1,1310 @@
+"target","location","season","submission.week","observation","observation2"
+"Season onset","HHS Region 1","2015/2016",NA,51,NA
+"Season peak week","HHS Region 1","2015/2016",NA,10,NA
+"Season peak percentage","HHS Region 1","2015/2016",NA,2.5,NA
+"Season onset","HHS Region 10","2015/2016",NA,2,NA
+"Season peak week","HHS Region 10","2015/2016",NA,7,NA
+"Season peak percentage","HHS Region 10","2015/2016",NA,2.4,NA
+"Season onset","HHS Region 2","2015/2016",NA,4,NA
+"Season peak week","HHS Region 2","2015/2016",NA,11,NA
+"Season peak percentage","HHS Region 2","2015/2016",NA,4.1,NA
+"Season onset","HHS Region 3","2015/2016",NA,47,NA
+"Season peak week","HHS Region 3","2015/2016",NA,10,NA
+"Season peak percentage","HHS Region 3","2015/2016",NA,4,NA
+"Season onset","HHS Region 4","2015/2016",NA,3,NA
+"Season peak week","HHS Region 4","2015/2016",NA,10,NA
+"Season peak percentage","HHS Region 4","2015/2016",NA,3.6,NA
+"Season onset","HHS Region 5","2015/2016",NA,7,NA
+"Season peak week","HHS Region 5","2015/2016",NA,10,NA
+"Season peak percentage","HHS Region 5","2015/2016",NA,3.2,NA
+"Season onset","HHS Region 6","2015/2016",NA,47,NA
+"Season peak week","HHS Region 6","2015/2016",NA,7,NA
+"Season peak percentage","HHS Region 6","2015/2016",NA,5.6,NA
+"Season onset","HHS Region 7","2015/2016",NA,7,NA
+"Season peak week","HHS Region 7","2015/2016",NA,10,NA
+"Season peak percentage","HHS Region 7","2015/2016",NA,2.5,NA
+"Season onset","HHS Region 8","2015/2016",NA,5,NA
+"Season peak week","HHS Region 8","2015/2016",NA,8,11
+"Season peak percentage","HHS Region 8","2015/2016",NA,2.2,NA
+"Season onset","HHS Region 9","2015/2016",NA,3,NA
+"Season peak week","HHS Region 9","2015/2016",NA,7,NA
+"Season peak percentage","HHS Region 9","2015/2016",NA,4.4,NA
+"Season onset","US National","2015/2016",NA,3,NA
+"Season peak week","US National","2015/2016",NA,10,NA
+"Season peak percentage","US National","2015/2016",NA,3.6,NA
+"1 wk ahead","HHS Region 1","2015/2016",44,0.8,NA
+"1 wk ahead","HHS Region 1","2015/2016",45,0.9,NA
+"1 wk ahead","HHS Region 1","2015/2016",46,0.8,NA
+"1 wk ahead","HHS Region 1","2015/2016",47,0.7,NA
+"1 wk ahead","HHS Region 1","2015/2016",48,1,NA
+"1 wk ahead","HHS Region 1","2015/2016",49,0.8,NA
+"1 wk ahead","HHS Region 1","2015/2016",50,1,NA
+"1 wk ahead","HHS Region 1","2015/2016",51,1,NA
+"1 wk ahead","HHS Region 1","2015/2016",52,1.4,NA
+"1 wk ahead","HHS Region 1","2015/2016",1,1.6,NA
+"1 wk ahead","HHS Region 1","2015/2016",2,1.3,NA
+"1 wk ahead","HHS Region 1","2015/2016",3,1.4,NA
+"1 wk ahead","HHS Region 1","2015/2016",4,1.5,NA
+"1 wk ahead","HHS Region 1","2015/2016",5,1.7,NA
+"1 wk ahead","HHS Region 1","2015/2016",6,1.8,NA
+"1 wk ahead","HHS Region 1","2015/2016",7,2,NA
+"1 wk ahead","HHS Region 1","2015/2016",8,2,NA
+"1 wk ahead","HHS Region 1","2015/2016",9,2,NA
+"1 wk ahead","HHS Region 1","2015/2016",10,2,NA
+"1 wk ahead","HHS Region 1","2015/2016",11,2.5,NA
+"1 wk ahead","HHS Region 1","2015/2016",12,2.2,NA
+"1 wk ahead","HHS Region 1","2015/2016",13,2,NA
+"1 wk ahead","HHS Region 1","2015/2016",14,2,NA
+"1 wk ahead","HHS Region 1","2015/2016",15,1.7,NA
+"1 wk ahead","HHS Region 1","2015/2016",16,1.6,NA
+"1 wk ahead","HHS Region 1","2015/2016",17,1.6,NA
+"1 wk ahead","HHS Region 1","2015/2016",18,1.1,NA
+"1 wk ahead","HHS Region 1","2015/2016",19,1.1,NA
+"1 wk ahead","HHS Region 1","2015/2016",20,0.9,NA
+"2 wk ahead","HHS Region 1","2015/2016",44,0.9,NA
+"2 wk ahead","HHS Region 1","2015/2016",45,0.8,NA
+"2 wk ahead","HHS Region 1","2015/2016",46,0.7,NA
+"2 wk ahead","HHS Region 1","2015/2016",47,1,NA
+"2 wk ahead","HHS Region 1","2015/2016",48,0.8,NA
+"2 wk ahead","HHS Region 1","2015/2016",49,1,NA
+"2 wk ahead","HHS Region 1","2015/2016",50,1,NA
+"2 wk ahead","HHS Region 1","2015/2016",51,1.4,NA
+"2 wk ahead","HHS Region 1","2015/2016",52,1.6,NA
+"2 wk ahead","HHS Region 1","2015/2016",1,1.3,NA
+"2 wk ahead","HHS Region 1","2015/2016",2,1.4,NA
+"2 wk ahead","HHS Region 1","2015/2016",3,1.5,NA
+"2 wk ahead","HHS Region 1","2015/2016",4,1.7,NA
+"2 wk ahead","HHS Region 1","2015/2016",5,1.8,NA
+"2 wk ahead","HHS Region 1","2015/2016",6,2,NA
+"2 wk ahead","HHS Region 1","2015/2016",7,2,NA
+"2 wk ahead","HHS Region 1","2015/2016",8,2,NA
+"2 wk ahead","HHS Region 1","2015/2016",9,2,NA
+"2 wk ahead","HHS Region 1","2015/2016",10,2.5,NA
+"2 wk ahead","HHS Region 1","2015/2016",11,2.2,NA
+"2 wk ahead","HHS Region 1","2015/2016",12,2,NA
+"2 wk ahead","HHS Region 1","2015/2016",13,2,NA
+"2 wk ahead","HHS Region 1","2015/2016",14,1.7,NA
+"2 wk ahead","HHS Region 1","2015/2016",15,1.6,NA
+"2 wk ahead","HHS Region 1","2015/2016",16,1.6,NA
+"2 wk ahead","HHS Region 1","2015/2016",17,1.1,NA
+"2 wk ahead","HHS Region 1","2015/2016",18,1.1,NA
+"2 wk ahead","HHS Region 1","2015/2016",19,0.9,NA
+"2 wk ahead","HHS Region 1","2015/2016",20,0.9,NA
+"3 wk ahead","HHS Region 1","2015/2016",44,0.8,NA
+"3 wk ahead","HHS Region 1","2015/2016",45,0.7,NA
+"3 wk ahead","HHS Region 1","2015/2016",46,1,NA
+"3 wk ahead","HHS Region 1","2015/2016",47,0.8,NA
+"3 wk ahead","HHS Region 1","2015/2016",48,1,NA
+"3 wk ahead","HHS Region 1","2015/2016",49,1,NA
+"3 wk ahead","HHS Region 1","2015/2016",50,1.4,NA
+"3 wk ahead","HHS Region 1","2015/2016",51,1.6,NA
+"3 wk ahead","HHS Region 1","2015/2016",52,1.3,NA
+"3 wk ahead","HHS Region 1","2015/2016",1,1.4,NA
+"3 wk ahead","HHS Region 1","2015/2016",2,1.5,NA
+"3 wk ahead","HHS Region 1","2015/2016",3,1.7,NA
+"3 wk ahead","HHS Region 1","2015/2016",4,1.8,NA
+"3 wk ahead","HHS Region 1","2015/2016",5,2,NA
+"3 wk ahead","HHS Region 1","2015/2016",6,2,NA
+"3 wk ahead","HHS Region 1","2015/2016",7,2,NA
+"3 wk ahead","HHS Region 1","2015/2016",8,2,NA
+"3 wk ahead","HHS Region 1","2015/2016",9,2.5,NA
+"3 wk ahead","HHS Region 1","2015/2016",10,2.2,NA
+"3 wk ahead","HHS Region 1","2015/2016",11,2,NA
+"3 wk ahead","HHS Region 1","2015/2016",12,2,NA
+"3 wk ahead","HHS Region 1","2015/2016",13,1.7,NA
+"3 wk ahead","HHS Region 1","2015/2016",14,1.6,NA
+"3 wk ahead","HHS Region 1","2015/2016",15,1.6,NA
+"3 wk ahead","HHS Region 1","2015/2016",16,1.1,NA
+"3 wk ahead","HHS Region 1","2015/2016",17,1.1,NA
+"3 wk ahead","HHS Region 1","2015/2016",18,0.9,NA
+"3 wk ahead","HHS Region 1","2015/2016",19,0.9,NA
+"3 wk ahead","HHS Region 1","2015/2016",20,0.8,NA
+"4 wk ahead","HHS Region 1","2015/2016",44,0.7,NA
+"4 wk ahead","HHS Region 1","2015/2016",45,1,NA
+"4 wk ahead","HHS Region 1","2015/2016",46,0.8,NA
+"4 wk ahead","HHS Region 1","2015/2016",47,1,NA
+"4 wk ahead","HHS Region 1","2015/2016",48,1,NA
+"4 wk ahead","HHS Region 1","2015/2016",49,1.4,NA
+"4 wk ahead","HHS Region 1","2015/2016",50,1.6,NA
+"4 wk ahead","HHS Region 1","2015/2016",51,1.3,NA
+"4 wk ahead","HHS Region 1","2015/2016",52,1.4,NA
+"4 wk ahead","HHS Region 1","2015/2016",1,1.5,NA
+"4 wk ahead","HHS Region 1","2015/2016",2,1.7,NA
+"4 wk ahead","HHS Region 1","2015/2016",3,1.8,NA
+"4 wk ahead","HHS Region 1","2015/2016",4,2,NA
+"4 wk ahead","HHS Region 1","2015/2016",5,2,NA
+"4 wk ahead","HHS Region 1","2015/2016",6,2,NA
+"4 wk ahead","HHS Region 1","2015/2016",7,2,NA
+"4 wk ahead","HHS Region 1","2015/2016",8,2.5,NA
+"4 wk ahead","HHS Region 1","2015/2016",9,2.2,NA
+"4 wk ahead","HHS Region 1","2015/2016",10,2,NA
+"4 wk ahead","HHS Region 1","2015/2016",11,2,NA
+"4 wk ahead","HHS Region 1","2015/2016",12,1.7,NA
+"4 wk ahead","HHS Region 1","2015/2016",13,1.6,NA
+"4 wk ahead","HHS Region 1","2015/2016",14,1.6,NA
+"4 wk ahead","HHS Region 1","2015/2016",15,1.1,NA
+"4 wk ahead","HHS Region 1","2015/2016",16,1.1,NA
+"4 wk ahead","HHS Region 1","2015/2016",17,0.9,NA
+"4 wk ahead","HHS Region 1","2015/2016",18,0.9,NA
+"4 wk ahead","HHS Region 1","2015/2016",19,0.8,NA
+"4 wk ahead","HHS Region 1","2015/2016",20,0.7,NA
+"1 wk ahead","HHS Region 10","2015/2016",44,0.9,NA
+"1 wk ahead","HHS Region 10","2015/2016",45,0.5,NA
+"1 wk ahead","HHS Region 10","2015/2016",46,0.9,NA
+"1 wk ahead","HHS Region 10","2015/2016",47,0.7,NA
+"1 wk ahead","HHS Region 10","2015/2016",48,0.8,NA
+"1 wk ahead","HHS Region 10","2015/2016",49,0.8,NA
+"1 wk ahead","HHS Region 10","2015/2016",50,0.6,NA
+"1 wk ahead","HHS Region 10","2015/2016",51,0.7,NA
+"1 wk ahead","HHS Region 10","2015/2016",52,0.7,NA
+"1 wk ahead","HHS Region 10","2015/2016",1,0.8,NA
+"1 wk ahead","HHS Region 10","2015/2016",2,0.9,NA
+"1 wk ahead","HHS Region 10","2015/2016",3,1.1,NA
+"1 wk ahead","HHS Region 10","2015/2016",4,1.4,NA
+"1 wk ahead","HHS Region 10","2015/2016",5,1.4,NA
+"1 wk ahead","HHS Region 10","2015/2016",6,1.7,NA
+"1 wk ahead","HHS Region 10","2015/2016",7,1.7,NA
+"1 wk ahead","HHS Region 10","2015/2016",8,2.4,NA
+"1 wk ahead","HHS Region 10","2015/2016",9,2.1,NA
+"1 wk ahead","HHS Region 10","2015/2016",10,2,NA
+"1 wk ahead","HHS Region 10","2015/2016",11,2.2,NA
+"1 wk ahead","HHS Region 10","2015/2016",12,2.2,NA
+"1 wk ahead","HHS Region 10","2015/2016",13,1.7,NA
+"1 wk ahead","HHS Region 10","2015/2016",14,1.8,NA
+"1 wk ahead","HHS Region 10","2015/2016",15,1.7,NA
+"1 wk ahead","HHS Region 10","2015/2016",16,1,NA
+"1 wk ahead","HHS Region 10","2015/2016",17,0.8,NA
+"1 wk ahead","HHS Region 10","2015/2016",18,0.7,NA
+"1 wk ahead","HHS Region 10","2015/2016",19,0.9,NA
+"1 wk ahead","HHS Region 10","2015/2016",20,0.5,NA
+"2 wk ahead","HHS Region 10","2015/2016",44,0.5,NA
+"2 wk ahead","HHS Region 10","2015/2016",45,0.9,NA
+"2 wk ahead","HHS Region 10","2015/2016",46,0.7,NA
+"2 wk ahead","HHS Region 10","2015/2016",47,0.8,NA
+"2 wk ahead","HHS Region 10","2015/2016",48,0.8,NA
+"2 wk ahead","HHS Region 10","2015/2016",49,0.6,NA
+"2 wk ahead","HHS Region 10","2015/2016",50,0.7,NA
+"2 wk ahead","HHS Region 10","2015/2016",51,0.7,NA
+"2 wk ahead","HHS Region 10","2015/2016",52,0.8,NA
+"2 wk ahead","HHS Region 10","2015/2016",1,0.9,NA
+"2 wk ahead","HHS Region 10","2015/2016",2,1.1,NA
+"2 wk ahead","HHS Region 10","2015/2016",3,1.4,NA
+"2 wk ahead","HHS Region 10","2015/2016",4,1.4,NA
+"2 wk ahead","HHS Region 10","2015/2016",5,1.7,NA
+"2 wk ahead","HHS Region 10","2015/2016",6,1.7,NA
+"2 wk ahead","HHS Region 10","2015/2016",7,2.4,NA
+"2 wk ahead","HHS Region 10","2015/2016",8,2.1,NA
+"2 wk ahead","HHS Region 10","2015/2016",9,2,NA
+"2 wk ahead","HHS Region 10","2015/2016",10,2.2,NA
+"2 wk ahead","HHS Region 10","2015/2016",11,2.2,NA
+"2 wk ahead","HHS Region 10","2015/2016",12,1.7,NA
+"2 wk ahead","HHS Region 10","2015/2016",13,1.8,NA
+"2 wk ahead","HHS Region 10","2015/2016",14,1.7,NA
+"2 wk ahead","HHS Region 10","2015/2016",15,1,NA
+"2 wk ahead","HHS Region 10","2015/2016",16,0.8,NA
+"2 wk ahead","HHS Region 10","2015/2016",17,0.7,NA
+"2 wk ahead","HHS Region 10","2015/2016",18,0.9,NA
+"2 wk ahead","HHS Region 10","2015/2016",19,0.5,NA
+"2 wk ahead","HHS Region 10","2015/2016",20,0.5,NA
+"3 wk ahead","HHS Region 10","2015/2016",44,0.9,NA
+"3 wk ahead","HHS Region 10","2015/2016",45,0.7,NA
+"3 wk ahead","HHS Region 10","2015/2016",46,0.8,NA
+"3 wk ahead","HHS Region 10","2015/2016",47,0.8,NA
+"3 wk ahead","HHS Region 10","2015/2016",48,0.6,NA
+"3 wk ahead","HHS Region 10","2015/2016",49,0.7,NA
+"3 wk ahead","HHS Region 10","2015/2016",50,0.7,NA
+"3 wk ahead","HHS Region 10","2015/2016",51,0.8,NA
+"3 wk ahead","HHS Region 10","2015/2016",52,0.9,NA
+"3 wk ahead","HHS Region 10","2015/2016",1,1.1,NA
+"3 wk ahead","HHS Region 10","2015/2016",2,1.4,NA
+"3 wk ahead","HHS Region 10","2015/2016",3,1.4,NA
+"3 wk ahead","HHS Region 10","2015/2016",4,1.7,NA
+"3 wk ahead","HHS Region 10","2015/2016",5,1.7,NA
+"3 wk ahead","HHS Region 10","2015/2016",6,2.4,NA
+"3 wk ahead","HHS Region 10","2015/2016",7,2.1,NA
+"3 wk ahead","HHS Region 10","2015/2016",8,2,NA
+"3 wk ahead","HHS Region 10","2015/2016",9,2.2,NA
+"3 wk ahead","HHS Region 10","2015/2016",10,2.2,NA
+"3 wk ahead","HHS Region 10","2015/2016",11,1.7,NA
+"3 wk ahead","HHS Region 10","2015/2016",12,1.8,NA
+"3 wk ahead","HHS Region 10","2015/2016",13,1.7,NA
+"3 wk ahead","HHS Region 10","2015/2016",14,1,NA
+"3 wk ahead","HHS Region 10","2015/2016",15,0.8,NA
+"3 wk ahead","HHS Region 10","2015/2016",16,0.7,NA
+"3 wk ahead","HHS Region 10","2015/2016",17,0.9,NA
+"3 wk ahead","HHS Region 10","2015/2016",18,0.5,NA
+"3 wk ahead","HHS Region 10","2015/2016",19,0.5,NA
+"3 wk ahead","HHS Region 10","2015/2016",20,0.2,NA
+"4 wk ahead","HHS Region 10","2015/2016",44,0.7,NA
+"4 wk ahead","HHS Region 10","2015/2016",45,0.8,NA
+"4 wk ahead","HHS Region 10","2015/2016",46,0.8,NA
+"4 wk ahead","HHS Region 10","2015/2016",47,0.6,NA
+"4 wk ahead","HHS Region 10","2015/2016",48,0.7,NA
+"4 wk ahead","HHS Region 10","2015/2016",49,0.7,NA
+"4 wk ahead","HHS Region 10","2015/2016",50,0.8,NA
+"4 wk ahead","HHS Region 10","2015/2016",51,0.9,NA
+"4 wk ahead","HHS Region 10","2015/2016",52,1.1,NA
+"4 wk ahead","HHS Region 10","2015/2016",1,1.4,NA
+"4 wk ahead","HHS Region 10","2015/2016",2,1.4,NA
+"4 wk ahead","HHS Region 10","2015/2016",3,1.7,NA
+"4 wk ahead","HHS Region 10","2015/2016",4,1.7,NA
+"4 wk ahead","HHS Region 10","2015/2016",5,2.4,NA
+"4 wk ahead","HHS Region 10","2015/2016",6,2.1,NA
+"4 wk ahead","HHS Region 10","2015/2016",7,2,NA
+"4 wk ahead","HHS Region 10","2015/2016",8,2.2,NA
+"4 wk ahead","HHS Region 10","2015/2016",9,2.2,NA
+"4 wk ahead","HHS Region 10","2015/2016",10,1.7,NA
+"4 wk ahead","HHS Region 10","2015/2016",11,1.8,NA
+"4 wk ahead","HHS Region 10","2015/2016",12,1.7,NA
+"4 wk ahead","HHS Region 10","2015/2016",13,1,NA
+"4 wk ahead","HHS Region 10","2015/2016",14,0.8,NA
+"4 wk ahead","HHS Region 10","2015/2016",15,0.7,NA
+"4 wk ahead","HHS Region 10","2015/2016",16,0.9,NA
+"4 wk ahead","HHS Region 10","2015/2016",17,0.5,NA
+"4 wk ahead","HHS Region 10","2015/2016",18,0.5,NA
+"4 wk ahead","HHS Region 10","2015/2016",19,0.2,NA
+"4 wk ahead","HHS Region 10","2015/2016",20,0.2,NA
+"1 wk ahead","HHS Region 2","2015/2016",44,1.1,NA
+"1 wk ahead","HHS Region 2","2015/2016",45,1.2,NA
+"1 wk ahead","HHS Region 2","2015/2016",46,1.1,NA
+"1 wk ahead","HHS Region 2","2015/2016",47,1.4,NA
+"1 wk ahead","HHS Region 2","2015/2016",48,1.4,NA
+"1 wk ahead","HHS Region 2","2015/2016",49,1.6,NA
+"1 wk ahead","HHS Region 2","2015/2016",50,1.9,NA
+"1 wk ahead","HHS Region 2","2015/2016",51,1.7,NA
+"1 wk ahead","HHS Region 2","2015/2016",52,2.3,NA
+"1 wk ahead","HHS Region 2","2015/2016",1,2.3,NA
+"1 wk ahead","HHS Region 2","2015/2016",2,1.8,NA
+"1 wk ahead","HHS Region 2","2015/2016",3,2.4,NA
+"1 wk ahead","HHS Region 2","2015/2016",4,2.2,NA
+"1 wk ahead","HHS Region 2","2015/2016",5,2.3,NA
+"1 wk ahead","HHS Region 2","2015/2016",6,2.5,NA
+"1 wk ahead","HHS Region 2","2015/2016",7,3.2,NA
+"1 wk ahead","HHS Region 2","2015/2016",8,2.8,NA
+"1 wk ahead","HHS Region 2","2015/2016",9,3.2,NA
+"1 wk ahead","HHS Region 2","2015/2016",10,3.7,NA
+"1 wk ahead","HHS Region 2","2015/2016",11,4,NA
+"1 wk ahead","HHS Region 2","2015/2016",12,4.1,NA
+"1 wk ahead","HHS Region 2","2015/2016",13,3.3,NA
+"1 wk ahead","HHS Region 2","2015/2016",14,2.3,NA
+"1 wk ahead","HHS Region 2","2015/2016",15,2,NA
+"1 wk ahead","HHS Region 2","2015/2016",16,2.2,NA
+"1 wk ahead","HHS Region 2","2015/2016",17,2,NA
+"1 wk ahead","HHS Region 2","2015/2016",18,1.7,NA
+"1 wk ahead","HHS Region 2","2015/2016",19,1.5,NA
+"1 wk ahead","HHS Region 2","2015/2016",20,1.3,NA
+"2 wk ahead","HHS Region 2","2015/2016",44,1.2,NA
+"2 wk ahead","HHS Region 2","2015/2016",45,1.1,NA
+"2 wk ahead","HHS Region 2","2015/2016",46,1.4,NA
+"2 wk ahead","HHS Region 2","2015/2016",47,1.4,NA
+"2 wk ahead","HHS Region 2","2015/2016",48,1.6,NA
+"2 wk ahead","HHS Region 2","2015/2016",49,1.9,NA
+"2 wk ahead","HHS Region 2","2015/2016",50,1.7,NA
+"2 wk ahead","HHS Region 2","2015/2016",51,2.3,NA
+"2 wk ahead","HHS Region 2","2015/2016",52,2.3,NA
+"2 wk ahead","HHS Region 2","2015/2016",1,1.8,NA
+"2 wk ahead","HHS Region 2","2015/2016",2,2.4,NA
+"2 wk ahead","HHS Region 2","2015/2016",3,2.2,NA
+"2 wk ahead","HHS Region 2","2015/2016",4,2.3,NA
+"2 wk ahead","HHS Region 2","2015/2016",5,2.5,NA
+"2 wk ahead","HHS Region 2","2015/2016",6,3.2,NA
+"2 wk ahead","HHS Region 2","2015/2016",7,2.8,NA
+"2 wk ahead","HHS Region 2","2015/2016",8,3.2,NA
+"2 wk ahead","HHS Region 2","2015/2016",9,3.7,NA
+"2 wk ahead","HHS Region 2","2015/2016",10,4,NA
+"2 wk ahead","HHS Region 2","2015/2016",11,4.1,NA
+"2 wk ahead","HHS Region 2","2015/2016",12,3.3,NA
+"2 wk ahead","HHS Region 2","2015/2016",13,2.3,NA
+"2 wk ahead","HHS Region 2","2015/2016",14,2,NA
+"2 wk ahead","HHS Region 2","2015/2016",15,2.2,NA
+"2 wk ahead","HHS Region 2","2015/2016",16,2,NA
+"2 wk ahead","HHS Region 2","2015/2016",17,1.7,NA
+"2 wk ahead","HHS Region 2","2015/2016",18,1.5,NA
+"2 wk ahead","HHS Region 2","2015/2016",19,1.3,NA
+"2 wk ahead","HHS Region 2","2015/2016",20,1.3,NA
+"3 wk ahead","HHS Region 2","2015/2016",44,1.1,NA
+"3 wk ahead","HHS Region 2","2015/2016",45,1.4,NA
+"3 wk ahead","HHS Region 2","2015/2016",46,1.4,NA
+"3 wk ahead","HHS Region 2","2015/2016",47,1.6,NA
+"3 wk ahead","HHS Region 2","2015/2016",48,1.9,NA
+"3 wk ahead","HHS Region 2","2015/2016",49,1.7,NA
+"3 wk ahead","HHS Region 2","2015/2016",50,2.3,NA
+"3 wk ahead","HHS Region 2","2015/2016",51,2.3,NA
+"3 wk ahead","HHS Region 2","2015/2016",52,1.8,NA
+"3 wk ahead","HHS Region 2","2015/2016",1,2.4,NA
+"3 wk ahead","HHS Region 2","2015/2016",2,2.2,NA
+"3 wk ahead","HHS Region 2","2015/2016",3,2.3,NA
+"3 wk ahead","HHS Region 2","2015/2016",4,2.5,NA
+"3 wk ahead","HHS Region 2","2015/2016",5,3.2,NA
+"3 wk ahead","HHS Region 2","2015/2016",6,2.8,NA
+"3 wk ahead","HHS Region 2","2015/2016",7,3.2,NA
+"3 wk ahead","HHS Region 2","2015/2016",8,3.7,NA
+"3 wk ahead","HHS Region 2","2015/2016",9,4,NA
+"3 wk ahead","HHS Region 2","2015/2016",10,4.1,NA
+"3 wk ahead","HHS Region 2","2015/2016",11,3.3,NA
+"3 wk ahead","HHS Region 2","2015/2016",12,2.3,NA
+"3 wk ahead","HHS Region 2","2015/2016",13,2,NA
+"3 wk ahead","HHS Region 2","2015/2016",14,2.2,NA
+"3 wk ahead","HHS Region 2","2015/2016",15,2,NA
+"3 wk ahead","HHS Region 2","2015/2016",16,1.7,NA
+"3 wk ahead","HHS Region 2","2015/2016",17,1.5,NA
+"3 wk ahead","HHS Region 2","2015/2016",18,1.3,NA
+"3 wk ahead","HHS Region 2","2015/2016",19,1.3,NA
+"3 wk ahead","HHS Region 2","2015/2016",20,1.2,NA
+"4 wk ahead","HHS Region 2","2015/2016",44,1.4,NA
+"4 wk ahead","HHS Region 2","2015/2016",45,1.4,NA
+"4 wk ahead","HHS Region 2","2015/2016",46,1.6,NA
+"4 wk ahead","HHS Region 2","2015/2016",47,1.9,NA
+"4 wk ahead","HHS Region 2","2015/2016",48,1.7,NA
+"4 wk ahead","HHS Region 2","2015/2016",49,2.3,NA
+"4 wk ahead","HHS Region 2","2015/2016",50,2.3,NA
+"4 wk ahead","HHS Region 2","2015/2016",51,1.8,NA
+"4 wk ahead","HHS Region 2","2015/2016",52,2.4,NA
+"4 wk ahead","HHS Region 2","2015/2016",1,2.2,NA
+"4 wk ahead","HHS Region 2","2015/2016",2,2.3,NA
+"4 wk ahead","HHS Region 2","2015/2016",3,2.5,NA
+"4 wk ahead","HHS Region 2","2015/2016",4,3.2,NA
+"4 wk ahead","HHS Region 2","2015/2016",5,2.8,NA
+"4 wk ahead","HHS Region 2","2015/2016",6,3.2,NA
+"4 wk ahead","HHS Region 2","2015/2016",7,3.7,NA
+"4 wk ahead","HHS Region 2","2015/2016",8,4,NA
+"4 wk ahead","HHS Region 2","2015/2016",9,4.1,NA
+"4 wk ahead","HHS Region 2","2015/2016",10,3.3,NA
+"4 wk ahead","HHS Region 2","2015/2016",11,2.3,NA
+"4 wk ahead","HHS Region 2","2015/2016",12,2,NA
+"4 wk ahead","HHS Region 2","2015/2016",13,2.2,NA
+"4 wk ahead","HHS Region 2","2015/2016",14,2,NA
+"4 wk ahead","HHS Region 2","2015/2016",15,1.7,NA
+"4 wk ahead","HHS Region 2","2015/2016",16,1.5,NA
+"4 wk ahead","HHS Region 2","2015/2016",17,1.3,NA
+"4 wk ahead","HHS Region 2","2015/2016",18,1.3,NA
+"4 wk ahead","HHS Region 2","2015/2016",19,1.2,NA
+"4 wk ahead","HHS Region 2","2015/2016",20,0.8,NA
+"1 wk ahead","HHS Region 3","2015/2016",44,1.4,NA
+"1 wk ahead","HHS Region 3","2015/2016",45,1.5,NA
+"1 wk ahead","HHS Region 3","2015/2016",46,1.6,NA
+"1 wk ahead","HHS Region 3","2015/2016",47,1.7,NA
+"1 wk ahead","HHS Region 3","2015/2016",48,2.2,NA
+"1 wk ahead","HHS Region 3","2015/2016",49,1.8,NA
+"1 wk ahead","HHS Region 3","2015/2016",50,2,NA
+"1 wk ahead","HHS Region 3","2015/2016",51,2.3,NA
+"1 wk ahead","HHS Region 3","2015/2016",52,2.8,NA
+"1 wk ahead","HHS Region 3","2015/2016",1,3,NA
+"1 wk ahead","HHS Region 3","2015/2016",2,2.4,NA
+"1 wk ahead","HHS Region 3","2015/2016",3,2.3,NA
+"1 wk ahead","HHS Region 3","2015/2016",4,2.3,NA
+"1 wk ahead","HHS Region 3","2015/2016",5,2.2,NA
+"1 wk ahead","HHS Region 3","2015/2016",6,2,NA
+"1 wk ahead","HHS Region 3","2015/2016",7,2.3,NA
+"1 wk ahead","HHS Region 3","2015/2016",8,2.6,NA
+"1 wk ahead","HHS Region 3","2015/2016",9,2.9,NA
+"1 wk ahead","HHS Region 3","2015/2016",10,3.3,NA
+"1 wk ahead","HHS Region 3","2015/2016",11,4,NA
+"1 wk ahead","HHS Region 3","2015/2016",12,3.2,NA
+"1 wk ahead","HHS Region 3","2015/2016",13,3,NA
+"1 wk ahead","HHS Region 3","2015/2016",14,2.5,NA
+"1 wk ahead","HHS Region 3","2015/2016",15,2.1,NA
+"1 wk ahead","HHS Region 3","2015/2016",16,2.2,NA
+"1 wk ahead","HHS Region 3","2015/2016",17,2.3,NA
+"1 wk ahead","HHS Region 3","2015/2016",18,2.2,NA
+"1 wk ahead","HHS Region 3","2015/2016",19,1.9,NA
+"1 wk ahead","HHS Region 3","2015/2016",20,1.7,NA
+"2 wk ahead","HHS Region 3","2015/2016",44,1.5,NA
+"2 wk ahead","HHS Region 3","2015/2016",45,1.6,NA
+"2 wk ahead","HHS Region 3","2015/2016",46,1.7,NA
+"2 wk ahead","HHS Region 3","2015/2016",47,2.2,NA
+"2 wk ahead","HHS Region 3","2015/2016",48,1.8,NA
+"2 wk ahead","HHS Region 3","2015/2016",49,2,NA
+"2 wk ahead","HHS Region 3","2015/2016",50,2.3,NA
+"2 wk ahead","HHS Region 3","2015/2016",51,2.8,NA
+"2 wk ahead","HHS Region 3","2015/2016",52,3,NA
+"2 wk ahead","HHS Region 3","2015/2016",1,2.4,NA
+"2 wk ahead","HHS Region 3","2015/2016",2,2.3,NA
+"2 wk ahead","HHS Region 3","2015/2016",3,2.3,NA
+"2 wk ahead","HHS Region 3","2015/2016",4,2.2,NA
+"2 wk ahead","HHS Region 3","2015/2016",5,2,NA
+"2 wk ahead","HHS Region 3","2015/2016",6,2.3,NA
+"2 wk ahead","HHS Region 3","2015/2016",7,2.6,NA
+"2 wk ahead","HHS Region 3","2015/2016",8,2.9,NA
+"2 wk ahead","HHS Region 3","2015/2016",9,3.3,NA
+"2 wk ahead","HHS Region 3","2015/2016",10,4,NA
+"2 wk ahead","HHS Region 3","2015/2016",11,3.2,NA
+"2 wk ahead","HHS Region 3","2015/2016",12,3,NA
+"2 wk ahead","HHS Region 3","2015/2016",13,2.5,NA
+"2 wk ahead","HHS Region 3","2015/2016",14,2.1,NA
+"2 wk ahead","HHS Region 3","2015/2016",15,2.2,NA
+"2 wk ahead","HHS Region 3","2015/2016",16,2.3,NA
+"2 wk ahead","HHS Region 3","2015/2016",17,2.2,NA
+"2 wk ahead","HHS Region 3","2015/2016",18,1.9,NA
+"2 wk ahead","HHS Region 3","2015/2016",19,1.7,NA
+"2 wk ahead","HHS Region 3","2015/2016",20,1.7,NA
+"3 wk ahead","HHS Region 3","2015/2016",44,1.6,NA
+"3 wk ahead","HHS Region 3","2015/2016",45,1.7,NA
+"3 wk ahead","HHS Region 3","2015/2016",46,2.2,NA
+"3 wk ahead","HHS Region 3","2015/2016",47,1.8,NA
+"3 wk ahead","HHS Region 3","2015/2016",48,2,NA
+"3 wk ahead","HHS Region 3","2015/2016",49,2.3,NA
+"3 wk ahead","HHS Region 3","2015/2016",50,2.8,NA
+"3 wk ahead","HHS Region 3","2015/2016",51,3,NA
+"3 wk ahead","HHS Region 3","2015/2016",52,2.4,NA
+"3 wk ahead","HHS Region 3","2015/2016",1,2.3,NA
+"3 wk ahead","HHS Region 3","2015/2016",2,2.3,NA
+"3 wk ahead","HHS Region 3","2015/2016",3,2.2,NA
+"3 wk ahead","HHS Region 3","2015/2016",4,2,NA
+"3 wk ahead","HHS Region 3","2015/2016",5,2.3,NA
+"3 wk ahead","HHS Region 3","2015/2016",6,2.6,NA
+"3 wk ahead","HHS Region 3","2015/2016",7,2.9,NA
+"3 wk ahead","HHS Region 3","2015/2016",8,3.3,NA
+"3 wk ahead","HHS Region 3","2015/2016",9,4,NA
+"3 wk ahead","HHS Region 3","2015/2016",10,3.2,NA
+"3 wk ahead","HHS Region 3","2015/2016",11,3,NA
+"3 wk ahead","HHS Region 3","2015/2016",12,2.5,NA
+"3 wk ahead","HHS Region 3","2015/2016",13,2.1,NA
+"3 wk ahead","HHS Region 3","2015/2016",14,2.2,NA
+"3 wk ahead","HHS Region 3","2015/2016",15,2.3,NA
+"3 wk ahead","HHS Region 3","2015/2016",16,2.2,NA
+"3 wk ahead","HHS Region 3","2015/2016",17,1.9,NA
+"3 wk ahead","HHS Region 3","2015/2016",18,1.7,NA
+"3 wk ahead","HHS Region 3","2015/2016",19,1.7,NA
+"3 wk ahead","HHS Region 3","2015/2016",20,1.6,NA
+"4 wk ahead","HHS Region 3","2015/2016",44,1.7,NA
+"4 wk ahead","HHS Region 3","2015/2016",45,2.2,NA
+"4 wk ahead","HHS Region 3","2015/2016",46,1.8,NA
+"4 wk ahead","HHS Region 3","2015/2016",47,2,NA
+"4 wk ahead","HHS Region 3","2015/2016",48,2.3,NA
+"4 wk ahead","HHS Region 3","2015/2016",49,2.8,NA
+"4 wk ahead","HHS Region 3","2015/2016",50,3,NA
+"4 wk ahead","HHS Region 3","2015/2016",51,2.4,NA
+"4 wk ahead","HHS Region 3","2015/2016",52,2.3,NA
+"4 wk ahead","HHS Region 3","2015/2016",1,2.3,NA
+"4 wk ahead","HHS Region 3","2015/2016",2,2.2,NA
+"4 wk ahead","HHS Region 3","2015/2016",3,2,NA
+"4 wk ahead","HHS Region 3","2015/2016",4,2.3,NA
+"4 wk ahead","HHS Region 3","2015/2016",5,2.6,NA
+"4 wk ahead","HHS Region 3","2015/2016",6,2.9,NA
+"4 wk ahead","HHS Region 3","2015/2016",7,3.3,NA
+"4 wk ahead","HHS Region 3","2015/2016",8,4,NA
+"4 wk ahead","HHS Region 3","2015/2016",9,3.2,NA
+"4 wk ahead","HHS Region 3","2015/2016",10,3,NA
+"4 wk ahead","HHS Region 3","2015/2016",11,2.5,NA
+"4 wk ahead","HHS Region 3","2015/2016",12,2.1,NA
+"4 wk ahead","HHS Region 3","2015/2016",13,2.2,NA
+"4 wk ahead","HHS Region 3","2015/2016",14,2.3,NA
+"4 wk ahead","HHS Region 3","2015/2016",15,2.2,NA
+"4 wk ahead","HHS Region 3","2015/2016",16,1.9,NA
+"4 wk ahead","HHS Region 3","2015/2016",17,1.7,NA
+"4 wk ahead","HHS Region 3","2015/2016",18,1.7,NA
+"4 wk ahead","HHS Region 3","2015/2016",19,1.6,NA
+"4 wk ahead","HHS Region 3","2015/2016",20,1.9,NA
+"1 wk ahead","HHS Region 4","2015/2016",44,1.1,NA
+"1 wk ahead","HHS Region 4","2015/2016",45,1.1,NA
+"1 wk ahead","HHS Region 4","2015/2016",46,1.2,NA
+"1 wk ahead","HHS Region 4","2015/2016",47,1.3,NA
+"1 wk ahead","HHS Region 4","2015/2016",48,1.7,NA
+"1 wk ahead","HHS Region 4","2015/2016",49,1.4,NA
+"1 wk ahead","HHS Region 4","2015/2016",50,1.4,NA
+"1 wk ahead","HHS Region 4","2015/2016",51,1.5,NA
+"1 wk ahead","HHS Region 4","2015/2016",52,1.9,NA
+"1 wk ahead","HHS Region 4","2015/2016",1,1.8,NA
+"1 wk ahead","HHS Region 4","2015/2016",2,1.4,NA
+"1 wk ahead","HHS Region 4","2015/2016",3,1.5,NA
+"1 wk ahead","HHS Region 4","2015/2016",4,1.8,NA
+"1 wk ahead","HHS Region 4","2015/2016",5,1.9,NA
+"1 wk ahead","HHS Region 4","2015/2016",6,2.1,NA
+"1 wk ahead","HHS Region 4","2015/2016",7,2.3,NA
+"1 wk ahead","HHS Region 4","2015/2016",8,2.9,NA
+"1 wk ahead","HHS Region 4","2015/2016",9,3.4,NA
+"1 wk ahead","HHS Region 4","2015/2016",10,3.3,NA
+"1 wk ahead","HHS Region 4","2015/2016",11,3.6,NA
+"1 wk ahead","HHS Region 4","2015/2016",12,2.9,NA
+"1 wk ahead","HHS Region 4","2015/2016",13,2.8,NA
+"1 wk ahead","HHS Region 4","2015/2016",14,2.6,NA
+"1 wk ahead","HHS Region 4","2015/2016",15,2.1,NA
+"1 wk ahead","HHS Region 4","2015/2016",16,2,NA
+"1 wk ahead","HHS Region 4","2015/2016",17,2,NA
+"1 wk ahead","HHS Region 4","2015/2016",18,1.8,NA
+"1 wk ahead","HHS Region 4","2015/2016",19,1.7,NA
+"1 wk ahead","HHS Region 4","2015/2016",20,1.4,NA
+"2 wk ahead","HHS Region 4","2015/2016",44,1.1,NA
+"2 wk ahead","HHS Region 4","2015/2016",45,1.2,NA
+"2 wk ahead","HHS Region 4","2015/2016",46,1.3,NA
+"2 wk ahead","HHS Region 4","2015/2016",47,1.7,NA
+"2 wk ahead","HHS Region 4","2015/2016",48,1.4,NA
+"2 wk ahead","HHS Region 4","2015/2016",49,1.4,NA
+"2 wk ahead","HHS Region 4","2015/2016",50,1.5,NA
+"2 wk ahead","HHS Region 4","2015/2016",51,1.9,NA
+"2 wk ahead","HHS Region 4","2015/2016",52,1.8,NA
+"2 wk ahead","HHS Region 4","2015/2016",1,1.4,NA
+"2 wk ahead","HHS Region 4","2015/2016",2,1.5,NA
+"2 wk ahead","HHS Region 4","2015/2016",3,1.8,NA
+"2 wk ahead","HHS Region 4","2015/2016",4,1.9,NA
+"2 wk ahead","HHS Region 4","2015/2016",5,2.1,NA
+"2 wk ahead","HHS Region 4","2015/2016",6,2.3,NA
+"2 wk ahead","HHS Region 4","2015/2016",7,2.9,NA
+"2 wk ahead","HHS Region 4","2015/2016",8,3.4,NA
+"2 wk ahead","HHS Region 4","2015/2016",9,3.3,NA
+"2 wk ahead","HHS Region 4","2015/2016",10,3.6,NA
+"2 wk ahead","HHS Region 4","2015/2016",11,2.9,NA
+"2 wk ahead","HHS Region 4","2015/2016",12,2.8,NA
+"2 wk ahead","HHS Region 4","2015/2016",13,2.6,NA
+"2 wk ahead","HHS Region 4","2015/2016",14,2.1,NA
+"2 wk ahead","HHS Region 4","2015/2016",15,2,NA
+"2 wk ahead","HHS Region 4","2015/2016",16,2,NA
+"2 wk ahead","HHS Region 4","2015/2016",17,1.8,NA
+"2 wk ahead","HHS Region 4","2015/2016",18,1.7,NA
+"2 wk ahead","HHS Region 4","2015/2016",19,1.4,NA
+"2 wk ahead","HHS Region 4","2015/2016",20,1.2,NA
+"3 wk ahead","HHS Region 4","2015/2016",44,1.2,NA
+"3 wk ahead","HHS Region 4","2015/2016",45,1.3,NA
+"3 wk ahead","HHS Region 4","2015/2016",46,1.7,NA
+"3 wk ahead","HHS Region 4","2015/2016",47,1.4,NA
+"3 wk ahead","HHS Region 4","2015/2016",48,1.4,NA
+"3 wk ahead","HHS Region 4","2015/2016",49,1.5,NA
+"3 wk ahead","HHS Region 4","2015/2016",50,1.9,NA
+"3 wk ahead","HHS Region 4","2015/2016",51,1.8,NA
+"3 wk ahead","HHS Region 4","2015/2016",52,1.4,NA
+"3 wk ahead","HHS Region 4","2015/2016",1,1.5,NA
+"3 wk ahead","HHS Region 4","2015/2016",2,1.8,NA
+"3 wk ahead","HHS Region 4","2015/2016",3,1.9,NA
+"3 wk ahead","HHS Region 4","2015/2016",4,2.1,NA
+"3 wk ahead","HHS Region 4","2015/2016",5,2.3,NA
+"3 wk ahead","HHS Region 4","2015/2016",6,2.9,NA
+"3 wk ahead","HHS Region 4","2015/2016",7,3.4,NA
+"3 wk ahead","HHS Region 4","2015/2016",8,3.3,NA
+"3 wk ahead","HHS Region 4","2015/2016",9,3.6,NA
+"3 wk ahead","HHS Region 4","2015/2016",10,2.9,NA
+"3 wk ahead","HHS Region 4","2015/2016",11,2.8,NA
+"3 wk ahead","HHS Region 4","2015/2016",12,2.6,NA
+"3 wk ahead","HHS Region 4","2015/2016",13,2.1,NA
+"3 wk ahead","HHS Region 4","2015/2016",14,2,NA
+"3 wk ahead","HHS Region 4","2015/2016",15,2,NA
+"3 wk ahead","HHS Region 4","2015/2016",16,1.8,NA
+"3 wk ahead","HHS Region 4","2015/2016",17,1.7,NA
+"3 wk ahead","HHS Region 4","2015/2016",18,1.4,NA
+"3 wk ahead","HHS Region 4","2015/2016",19,1.2,NA
+"3 wk ahead","HHS Region 4","2015/2016",20,1.1,NA
+"4 wk ahead","HHS Region 4","2015/2016",44,1.3,NA
+"4 wk ahead","HHS Region 4","2015/2016",45,1.7,NA
+"4 wk ahead","HHS Region 4","2015/2016",46,1.4,NA
+"4 wk ahead","HHS Region 4","2015/2016",47,1.4,NA
+"4 wk ahead","HHS Region 4","2015/2016",48,1.5,NA
+"4 wk ahead","HHS Region 4","2015/2016",49,1.9,NA
+"4 wk ahead","HHS Region 4","2015/2016",50,1.8,NA
+"4 wk ahead","HHS Region 4","2015/2016",51,1.4,NA
+"4 wk ahead","HHS Region 4","2015/2016",52,1.5,NA
+"4 wk ahead","HHS Region 4","2015/2016",1,1.8,NA
+"4 wk ahead","HHS Region 4","2015/2016",2,1.9,NA
+"4 wk ahead","HHS Region 4","2015/2016",3,2.1,NA
+"4 wk ahead","HHS Region 4","2015/2016",4,2.3,NA
+"4 wk ahead","HHS Region 4","2015/2016",5,2.9,NA
+"4 wk ahead","HHS Region 4","2015/2016",6,3.4,NA
+"4 wk ahead","HHS Region 4","2015/2016",7,3.3,NA
+"4 wk ahead","HHS Region 4","2015/2016",8,3.6,NA
+"4 wk ahead","HHS Region 4","2015/2016",9,2.9,NA
+"4 wk ahead","HHS Region 4","2015/2016",10,2.8,NA
+"4 wk ahead","HHS Region 4","2015/2016",11,2.6,NA
+"4 wk ahead","HHS Region 4","2015/2016",12,2.1,NA
+"4 wk ahead","HHS Region 4","2015/2016",13,2,NA
+"4 wk ahead","HHS Region 4","2015/2016",14,2,NA
+"4 wk ahead","HHS Region 4","2015/2016",15,1.8,NA
+"4 wk ahead","HHS Region 4","2015/2016",16,1.7,NA
+"4 wk ahead","HHS Region 4","2015/2016",17,1.4,NA
+"4 wk ahead","HHS Region 4","2015/2016",18,1.2,NA
+"4 wk ahead","HHS Region 4","2015/2016",19,1.1,NA
+"4 wk ahead","HHS Region 4","2015/2016",20,1.1,NA
+"1 wk ahead","HHS Region 5","2015/2016",44,1,NA
+"1 wk ahead","HHS Region 5","2015/2016",45,1.2,NA
+"1 wk ahead","HHS Region 5","2015/2016",46,1.3,NA
+"1 wk ahead","HHS Region 5","2015/2016",47,1.2,NA
+"1 wk ahead","HHS Region 5","2015/2016",48,1.4,NA
+"1 wk ahead","HHS Region 5","2015/2016",49,1.1,NA
+"1 wk ahead","HHS Region 5","2015/2016",50,1.4,NA
+"1 wk ahead","HHS Region 5","2015/2016",51,1.4,NA
+"1 wk ahead","HHS Region 5","2015/2016",52,1.8,NA
+"1 wk ahead","HHS Region 5","2015/2016",1,1.7,NA
+"1 wk ahead","HHS Region 5","2015/2016",2,1.4,NA
+"1 wk ahead","HHS Region 5","2015/2016",3,1.4,NA
+"1 wk ahead","HHS Region 5","2015/2016",4,1.4,NA
+"1 wk ahead","HHS Region 5","2015/2016",5,1.4,NA
+"1 wk ahead","HHS Region 5","2015/2016",6,1.5,NA
+"1 wk ahead","HHS Region 5","2015/2016",7,1.8,NA
+"1 wk ahead","HHS Region 5","2015/2016",8,2.1,NA
+"1 wk ahead","HHS Region 5","2015/2016",9,2.6,NA
+"1 wk ahead","HHS Region 5","2015/2016",10,2.9,NA
+"1 wk ahead","HHS Region 5","2015/2016",11,3.2,NA
+"1 wk ahead","HHS Region 5","2015/2016",12,2.5,NA
+"1 wk ahead","HHS Region 5","2015/2016",13,2.3,NA
+"1 wk ahead","HHS Region 5","2015/2016",14,2,NA
+"1 wk ahead","HHS Region 5","2015/2016",15,1.6,NA
+"1 wk ahead","HHS Region 5","2015/2016",16,1.4,NA
+"1 wk ahead","HHS Region 5","2015/2016",17,1.5,NA
+"1 wk ahead","HHS Region 5","2015/2016",18,1.4,NA
+"1 wk ahead","HHS Region 5","2015/2016",19,1,NA
+"1 wk ahead","HHS Region 5","2015/2016",20,1.1,NA
+"2 wk ahead","HHS Region 5","2015/2016",44,1.2,NA
+"2 wk ahead","HHS Region 5","2015/2016",45,1.3,NA
+"2 wk ahead","HHS Region 5","2015/2016",46,1.2,NA
+"2 wk ahead","HHS Region 5","2015/2016",47,1.4,NA
+"2 wk ahead","HHS Region 5","2015/2016",48,1.1,NA
+"2 wk ahead","HHS Region 5","2015/2016",49,1.4,NA
+"2 wk ahead","HHS Region 5","2015/2016",50,1.4,NA
+"2 wk ahead","HHS Region 5","2015/2016",51,1.8,NA
+"2 wk ahead","HHS Region 5","2015/2016",52,1.7,NA
+"2 wk ahead","HHS Region 5","2015/2016",1,1.4,NA
+"2 wk ahead","HHS Region 5","2015/2016",2,1.4,NA
+"2 wk ahead","HHS Region 5","2015/2016",3,1.4,NA
+"2 wk ahead","HHS Region 5","2015/2016",4,1.4,NA
+"2 wk ahead","HHS Region 5","2015/2016",5,1.5,NA
+"2 wk ahead","HHS Region 5","2015/2016",6,1.8,NA
+"2 wk ahead","HHS Region 5","2015/2016",7,2.1,NA
+"2 wk ahead","HHS Region 5","2015/2016",8,2.6,NA
+"2 wk ahead","HHS Region 5","2015/2016",9,2.9,NA
+"2 wk ahead","HHS Region 5","2015/2016",10,3.2,NA
+"2 wk ahead","HHS Region 5","2015/2016",11,2.5,NA
+"2 wk ahead","HHS Region 5","2015/2016",12,2.3,NA
+"2 wk ahead","HHS Region 5","2015/2016",13,2,NA
+"2 wk ahead","HHS Region 5","2015/2016",14,1.6,NA
+"2 wk ahead","HHS Region 5","2015/2016",15,1.4,NA
+"2 wk ahead","HHS Region 5","2015/2016",16,1.5,NA
+"2 wk ahead","HHS Region 5","2015/2016",17,1.4,NA
+"2 wk ahead","HHS Region 5","2015/2016",18,1,NA
+"2 wk ahead","HHS Region 5","2015/2016",19,1.1,NA
+"2 wk ahead","HHS Region 5","2015/2016",20,1,NA
+"3 wk ahead","HHS Region 5","2015/2016",44,1.3,NA
+"3 wk ahead","HHS Region 5","2015/2016",45,1.2,NA
+"3 wk ahead","HHS Region 5","2015/2016",46,1.4,NA
+"3 wk ahead","HHS Region 5","2015/2016",47,1.1,NA
+"3 wk ahead","HHS Region 5","2015/2016",48,1.4,NA
+"3 wk ahead","HHS Region 5","2015/2016",49,1.4,NA
+"3 wk ahead","HHS Region 5","2015/2016",50,1.8,NA
+"3 wk ahead","HHS Region 5","2015/2016",51,1.7,NA
+"3 wk ahead","HHS Region 5","2015/2016",52,1.4,NA
+"3 wk ahead","HHS Region 5","2015/2016",1,1.4,NA
+"3 wk ahead","HHS Region 5","2015/2016",2,1.4,NA
+"3 wk ahead","HHS Region 5","2015/2016",3,1.4,NA
+"3 wk ahead","HHS Region 5","2015/2016",4,1.5,NA
+"3 wk ahead","HHS Region 5","2015/2016",5,1.8,NA
+"3 wk ahead","HHS Region 5","2015/2016",6,2.1,NA
+"3 wk ahead","HHS Region 5","2015/2016",7,2.6,NA
+"3 wk ahead","HHS Region 5","2015/2016",8,2.9,NA
+"3 wk ahead","HHS Region 5","2015/2016",9,3.2,NA
+"3 wk ahead","HHS Region 5","2015/2016",10,2.5,NA
+"3 wk ahead","HHS Region 5","2015/2016",11,2.3,NA
+"3 wk ahead","HHS Region 5","2015/2016",12,2,NA
+"3 wk ahead","HHS Region 5","2015/2016",13,1.6,NA
+"3 wk ahead","HHS Region 5","2015/2016",14,1.4,NA
+"3 wk ahead","HHS Region 5","2015/2016",15,1.5,NA
+"3 wk ahead","HHS Region 5","2015/2016",16,1.4,NA
+"3 wk ahead","HHS Region 5","2015/2016",17,1,NA
+"3 wk ahead","HHS Region 5","2015/2016",18,1.1,NA
+"3 wk ahead","HHS Region 5","2015/2016",19,1,NA
+"3 wk ahead","HHS Region 5","2015/2016",20,0.8,NA
+"4 wk ahead","HHS Region 5","2015/2016",44,1.2,NA
+"4 wk ahead","HHS Region 5","2015/2016",45,1.4,NA
+"4 wk ahead","HHS Region 5","2015/2016",46,1.1,NA
+"4 wk ahead","HHS Region 5","2015/2016",47,1.4,NA
+"4 wk ahead","HHS Region 5","2015/2016",48,1.4,NA
+"4 wk ahead","HHS Region 5","2015/2016",49,1.8,NA
+"4 wk ahead","HHS Region 5","2015/2016",50,1.7,NA
+"4 wk ahead","HHS Region 5","2015/2016",51,1.4,NA
+"4 wk ahead","HHS Region 5","2015/2016",52,1.4,NA
+"4 wk ahead","HHS Region 5","2015/2016",1,1.4,NA
+"4 wk ahead","HHS Region 5","2015/2016",2,1.4,NA
+"4 wk ahead","HHS Region 5","2015/2016",3,1.5,NA
+"4 wk ahead","HHS Region 5","2015/2016",4,1.8,NA
+"4 wk ahead","HHS Region 5","2015/2016",5,2.1,NA
+"4 wk ahead","HHS Region 5","2015/2016",6,2.6,NA
+"4 wk ahead","HHS Region 5","2015/2016",7,2.9,NA
+"4 wk ahead","HHS Region 5","2015/2016",8,3.2,NA
+"4 wk ahead","HHS Region 5","2015/2016",9,2.5,NA
+"4 wk ahead","HHS Region 5","2015/2016",10,2.3,NA
+"4 wk ahead","HHS Region 5","2015/2016",11,2,NA
+"4 wk ahead","HHS Region 5","2015/2016",12,1.6,NA
+"4 wk ahead","HHS Region 5","2015/2016",13,1.4,NA
+"4 wk ahead","HHS Region 5","2015/2016",14,1.5,NA
+"4 wk ahead","HHS Region 5","2015/2016",15,1.4,NA
+"4 wk ahead","HHS Region 5","2015/2016",16,1,NA
+"4 wk ahead","HHS Region 5","2015/2016",17,1.1,NA
+"4 wk ahead","HHS Region 5","2015/2016",18,1,NA
+"4 wk ahead","HHS Region 5","2015/2016",19,0.8,NA
+"4 wk ahead","HHS Region 5","2015/2016",20,0.9,NA
+"1 wk ahead","HHS Region 6","2015/2016",44,3.1,NA
+"1 wk ahead","HHS Region 6","2015/2016",45,3,NA
+"1 wk ahead","HHS Region 6","2015/2016",46,3.5,NA
+"1 wk ahead","HHS Region 6","2015/2016",47,3.4,NA
+"1 wk ahead","HHS Region 6","2015/2016",48,4.2,NA
+"1 wk ahead","HHS Region 6","2015/2016",49,3.9,NA
+"1 wk ahead","HHS Region 6","2015/2016",50,4,NA
+"1 wk ahead","HHS Region 6","2015/2016",51,4.1,NA
+"1 wk ahead","HHS Region 6","2015/2016",52,4.5,NA
+"1 wk ahead","HHS Region 6","2015/2016",1,5,NA
+"1 wk ahead","HHS Region 6","2015/2016",2,4.1,NA
+"1 wk ahead","HHS Region 6","2015/2016",3,3.8,NA
+"1 wk ahead","HHS Region 6","2015/2016",4,4.1,NA
+"1 wk ahead","HHS Region 6","2015/2016",5,4.5,NA
+"1 wk ahead","HHS Region 6","2015/2016",6,4.5,NA
+"1 wk ahead","HHS Region 6","2015/2016",7,5.1,NA
+"1 wk ahead","HHS Region 6","2015/2016",8,5.6,NA
+"1 wk ahead","HHS Region 6","2015/2016",9,4.5,NA
+"1 wk ahead","HHS Region 6","2015/2016",10,4.7,NA
+"1 wk ahead","HHS Region 6","2015/2016",11,4.4,NA
+"1 wk ahead","HHS Region 6","2015/2016",12,3.9,NA
+"1 wk ahead","HHS Region 6","2015/2016",13,3.6,NA
+"1 wk ahead","HHS Region 6","2015/2016",14,3.3,NA
+"1 wk ahead","HHS Region 6","2015/2016",15,2.9,NA
+"1 wk ahead","HHS Region 6","2015/2016",16,3.1,NA
+"1 wk ahead","HHS Region 6","2015/2016",17,2.9,NA
+"1 wk ahead","HHS Region 6","2015/2016",18,2.8,NA
+"1 wk ahead","HHS Region 6","2015/2016",19,2.7,NA
+"1 wk ahead","HHS Region 6","2015/2016",20,2.3,NA
+"2 wk ahead","HHS Region 6","2015/2016",44,3,NA
+"2 wk ahead","HHS Region 6","2015/2016",45,3.5,NA
+"2 wk ahead","HHS Region 6","2015/2016",46,3.4,NA
+"2 wk ahead","HHS Region 6","2015/2016",47,4.2,NA
+"2 wk ahead","HHS Region 6","2015/2016",48,3.9,NA
+"2 wk ahead","HHS Region 6","2015/2016",49,4,NA
+"2 wk ahead","HHS Region 6","2015/2016",50,4.1,NA
+"2 wk ahead","HHS Region 6","2015/2016",51,4.5,NA
+"2 wk ahead","HHS Region 6","2015/2016",52,5,NA
+"2 wk ahead","HHS Region 6","2015/2016",1,4.1,NA
+"2 wk ahead","HHS Region 6","2015/2016",2,3.8,NA
+"2 wk ahead","HHS Region 6","2015/2016",3,4.1,NA
+"2 wk ahead","HHS Region 6","2015/2016",4,4.5,NA
+"2 wk ahead","HHS Region 6","2015/2016",5,4.5,NA
+"2 wk ahead","HHS Region 6","2015/2016",6,5.1,NA
+"2 wk ahead","HHS Region 6","2015/2016",7,5.6,NA
+"2 wk ahead","HHS Region 6","2015/2016",8,4.5,NA
+"2 wk ahead","HHS Region 6","2015/2016",9,4.7,NA
+"2 wk ahead","HHS Region 6","2015/2016",10,4.4,NA
+"2 wk ahead","HHS Region 6","2015/2016",11,3.9,NA
+"2 wk ahead","HHS Region 6","2015/2016",12,3.6,NA
+"2 wk ahead","HHS Region 6","2015/2016",13,3.3,NA
+"2 wk ahead","HHS Region 6","2015/2016",14,2.9,NA
+"2 wk ahead","HHS Region 6","2015/2016",15,3.1,NA
+"2 wk ahead","HHS Region 6","2015/2016",16,2.9,NA
+"2 wk ahead","HHS Region 6","2015/2016",17,2.8,NA
+"2 wk ahead","HHS Region 6","2015/2016",18,2.7,NA
+"2 wk ahead","HHS Region 6","2015/2016",19,2.3,NA
+"2 wk ahead","HHS Region 6","2015/2016",20,2.3,NA
+"3 wk ahead","HHS Region 6","2015/2016",44,3.5,NA
+"3 wk ahead","HHS Region 6","2015/2016",45,3.4,NA
+"3 wk ahead","HHS Region 6","2015/2016",46,4.2,NA
+"3 wk ahead","HHS Region 6","2015/2016",47,3.9,NA
+"3 wk ahead","HHS Region 6","2015/2016",48,4,NA
+"3 wk ahead","HHS Region 6","2015/2016",49,4.1,NA
+"3 wk ahead","HHS Region 6","2015/2016",50,4.5,NA
+"3 wk ahead","HHS Region 6","2015/2016",51,5,NA
+"3 wk ahead","HHS Region 6","2015/2016",52,4.1,NA
+"3 wk ahead","HHS Region 6","2015/2016",1,3.8,NA
+"3 wk ahead","HHS Region 6","2015/2016",2,4.1,NA
+"3 wk ahead","HHS Region 6","2015/2016",3,4.5,NA
+"3 wk ahead","HHS Region 6","2015/2016",4,4.5,NA
+"3 wk ahead","HHS Region 6","2015/2016",5,5.1,NA
+"3 wk ahead","HHS Region 6","2015/2016",6,5.6,NA
+"3 wk ahead","HHS Region 6","2015/2016",7,4.5,NA
+"3 wk ahead","HHS Region 6","2015/2016",8,4.7,NA
+"3 wk ahead","HHS Region 6","2015/2016",9,4.4,NA
+"3 wk ahead","HHS Region 6","2015/2016",10,3.9,NA
+"3 wk ahead","HHS Region 6","2015/2016",11,3.6,NA
+"3 wk ahead","HHS Region 6","2015/2016",12,3.3,NA
+"3 wk ahead","HHS Region 6","2015/2016",13,2.9,NA
+"3 wk ahead","HHS Region 6","2015/2016",14,3.1,NA
+"3 wk ahead","HHS Region 6","2015/2016",15,2.9,NA
+"3 wk ahead","HHS Region 6","2015/2016",16,2.8,NA
+"3 wk ahead","HHS Region 6","2015/2016",17,2.7,NA
+"3 wk ahead","HHS Region 6","2015/2016",18,2.3,NA
+"3 wk ahead","HHS Region 6","2015/2016",19,2.3,NA
+"3 wk ahead","HHS Region 6","2015/2016",20,2.4,NA
+"4 wk ahead","HHS Region 6","2015/2016",44,3.4,NA
+"4 wk ahead","HHS Region 6","2015/2016",45,4.2,NA
+"4 wk ahead","HHS Region 6","2015/2016",46,3.9,NA
+"4 wk ahead","HHS Region 6","2015/2016",47,4,NA
+"4 wk ahead","HHS Region 6","2015/2016",48,4.1,NA
+"4 wk ahead","HHS Region 6","2015/2016",49,4.5,NA
+"4 wk ahead","HHS Region 6","2015/2016",50,5,NA
+"4 wk ahead","HHS Region 6","2015/2016",51,4.1,NA
+"4 wk ahead","HHS Region 6","2015/2016",52,3.8,NA
+"4 wk ahead","HHS Region 6","2015/2016",1,4.1,NA
+"4 wk ahead","HHS Region 6","2015/2016",2,4.5,NA
+"4 wk ahead","HHS Region 6","2015/2016",3,4.5,NA
+"4 wk ahead","HHS Region 6","2015/2016",4,5.1,NA
+"4 wk ahead","HHS Region 6","2015/2016",5,5.6,NA
+"4 wk ahead","HHS Region 6","2015/2016",6,4.5,NA
+"4 wk ahead","HHS Region 6","2015/2016",7,4.7,NA
+"4 wk ahead","HHS Region 6","2015/2016",8,4.4,NA
+"4 wk ahead","HHS Region 6","2015/2016",9,3.9,NA
+"4 wk ahead","HHS Region 6","2015/2016",10,3.6,NA
+"4 wk ahead","HHS Region 6","2015/2016",11,3.3,NA
+"4 wk ahead","HHS Region 6","2015/2016",12,2.9,NA
+"4 wk ahead","HHS Region 6","2015/2016",13,3.1,NA
+"4 wk ahead","HHS Region 6","2015/2016",14,2.9,NA
+"4 wk ahead","HHS Region 6","2015/2016",15,2.8,NA
+"4 wk ahead","HHS Region 6","2015/2016",16,2.7,NA
+"4 wk ahead","HHS Region 6","2015/2016",17,2.3,NA
+"4 wk ahead","HHS Region 6","2015/2016",18,2.3,NA
+"4 wk ahead","HHS Region 6","2015/2016",19,2.4,NA
+"4 wk ahead","HHS Region 6","2015/2016",20,2.1,NA
+"1 wk ahead","HHS Region 7","2015/2016",44,0.9,NA
+"1 wk ahead","HHS Region 7","2015/2016",45,1.2,NA
+"1 wk ahead","HHS Region 7","2015/2016",46,1.2,NA
+"1 wk ahead","HHS Region 7","2015/2016",47,1.1,NA
+"1 wk ahead","HHS Region 7","2015/2016",48,1.3,NA
+"1 wk ahead","HHS Region 7","2015/2016",49,1,NA
+"1 wk ahead","HHS Region 7","2015/2016",50,0.9,NA
+"1 wk ahead","HHS Region 7","2015/2016",51,1.2,NA
+"1 wk ahead","HHS Region 7","2015/2016",52,1.4,NA
+"1 wk ahead","HHS Region 7","2015/2016",1,1.6,NA
+"1 wk ahead","HHS Region 7","2015/2016",2,1.4,NA
+"1 wk ahead","HHS Region 7","2015/2016",3,1.1,NA
+"1 wk ahead","HHS Region 7","2015/2016",4,1.2,NA
+"1 wk ahead","HHS Region 7","2015/2016",5,1.2,NA
+"1 wk ahead","HHS Region 7","2015/2016",6,1.1,NA
+"1 wk ahead","HHS Region 7","2015/2016",7,1.5,NA
+"1 wk ahead","HHS Region 7","2015/2016",8,1.8,NA
+"1 wk ahead","HHS Region 7","2015/2016",9,1.8,NA
+"1 wk ahead","HHS Region 7","2015/2016",10,2.4,NA
+"1 wk ahead","HHS Region 7","2015/2016",11,2.5,NA
+"1 wk ahead","HHS Region 7","2015/2016",12,2,NA
+"1 wk ahead","HHS Region 7","2015/2016",13,2.1,NA
+"1 wk ahead","HHS Region 7","2015/2016",14,2.1,NA
+"1 wk ahead","HHS Region 7","2015/2016",15,1.5,NA
+"1 wk ahead","HHS Region 7","2015/2016",16,1.4,NA
+"1 wk ahead","HHS Region 7","2015/2016",17,1.2,NA
+"1 wk ahead","HHS Region 7","2015/2016",18,1,NA
+"1 wk ahead","HHS Region 7","2015/2016",19,0.9,NA
+"1 wk ahead","HHS Region 7","2015/2016",20,0.7,NA
+"2 wk ahead","HHS Region 7","2015/2016",44,1.2,NA
+"2 wk ahead","HHS Region 7","2015/2016",45,1.2,NA
+"2 wk ahead","HHS Region 7","2015/2016",46,1.1,NA
+"2 wk ahead","HHS Region 7","2015/2016",47,1.3,NA
+"2 wk ahead","HHS Region 7","2015/2016",48,1,NA
+"2 wk ahead","HHS Region 7","2015/2016",49,0.9,NA
+"2 wk ahead","HHS Region 7","2015/2016",50,1.2,NA
+"2 wk ahead","HHS Region 7","2015/2016",51,1.4,NA
+"2 wk ahead","HHS Region 7","2015/2016",52,1.6,NA
+"2 wk ahead","HHS Region 7","2015/2016",1,1.4,NA
+"2 wk ahead","HHS Region 7","2015/2016",2,1.1,NA
+"2 wk ahead","HHS Region 7","2015/2016",3,1.2,NA
+"2 wk ahead","HHS Region 7","2015/2016",4,1.2,NA
+"2 wk ahead","HHS Region 7","2015/2016",5,1.1,NA
+"2 wk ahead","HHS Region 7","2015/2016",6,1.5,NA
+"2 wk ahead","HHS Region 7","2015/2016",7,1.8,NA
+"2 wk ahead","HHS Region 7","2015/2016",8,1.8,NA
+"2 wk ahead","HHS Region 7","2015/2016",9,2.4,NA
+"2 wk ahead","HHS Region 7","2015/2016",10,2.5,NA
+"2 wk ahead","HHS Region 7","2015/2016",11,2,NA
+"2 wk ahead","HHS Region 7","2015/2016",12,2.1,NA
+"2 wk ahead","HHS Region 7","2015/2016",13,2.1,NA
+"2 wk ahead","HHS Region 7","2015/2016",14,1.5,NA
+"2 wk ahead","HHS Region 7","2015/2016",15,1.4,NA
+"2 wk ahead","HHS Region 7","2015/2016",16,1.2,NA
+"2 wk ahead","HHS Region 7","2015/2016",17,1,NA
+"2 wk ahead","HHS Region 7","2015/2016",18,0.9,NA
+"2 wk ahead","HHS Region 7","2015/2016",19,0.7,NA
+"2 wk ahead","HHS Region 7","2015/2016",20,0.6,NA
+"3 wk ahead","HHS Region 7","2015/2016",44,1.2,NA
+"3 wk ahead","HHS Region 7","2015/2016",45,1.1,NA
+"3 wk ahead","HHS Region 7","2015/2016",46,1.3,NA
+"3 wk ahead","HHS Region 7","2015/2016",47,1,NA
+"3 wk ahead","HHS Region 7","2015/2016",48,0.9,NA
+"3 wk ahead","HHS Region 7","2015/2016",49,1.2,NA
+"3 wk ahead","HHS Region 7","2015/2016",50,1.4,NA
+"3 wk ahead","HHS Region 7","2015/2016",51,1.6,NA
+"3 wk ahead","HHS Region 7","2015/2016",52,1.4,NA
+"3 wk ahead","HHS Region 7","2015/2016",1,1.1,NA
+"3 wk ahead","HHS Region 7","2015/2016",2,1.2,NA
+"3 wk ahead","HHS Region 7","2015/2016",3,1.2,NA
+"3 wk ahead","HHS Region 7","2015/2016",4,1.1,NA
+"3 wk ahead","HHS Region 7","2015/2016",5,1.5,NA
+"3 wk ahead","HHS Region 7","2015/2016",6,1.8,NA
+"3 wk ahead","HHS Region 7","2015/2016",7,1.8,NA
+"3 wk ahead","HHS Region 7","2015/2016",8,2.4,NA
+"3 wk ahead","HHS Region 7","2015/2016",9,2.5,NA
+"3 wk ahead","HHS Region 7","2015/2016",10,2,NA
+"3 wk ahead","HHS Region 7","2015/2016",11,2.1,NA
+"3 wk ahead","HHS Region 7","2015/2016",12,2.1,NA
+"3 wk ahead","HHS Region 7","2015/2016",13,1.5,NA
+"3 wk ahead","HHS Region 7","2015/2016",14,1.4,NA
+"3 wk ahead","HHS Region 7","2015/2016",15,1.2,NA
+"3 wk ahead","HHS Region 7","2015/2016",16,1,NA
+"3 wk ahead","HHS Region 7","2015/2016",17,0.9,NA
+"3 wk ahead","HHS Region 7","2015/2016",18,0.7,NA
+"3 wk ahead","HHS Region 7","2015/2016",19,0.6,NA
+"3 wk ahead","HHS Region 7","2015/2016",20,0.3,NA
+"4 wk ahead","HHS Region 7","2015/2016",44,1.1,NA
+"4 wk ahead","HHS Region 7","2015/2016",45,1.3,NA
+"4 wk ahead","HHS Region 7","2015/2016",46,1,NA
+"4 wk ahead","HHS Region 7","2015/2016",47,0.9,NA
+"4 wk ahead","HHS Region 7","2015/2016",48,1.2,NA
+"4 wk ahead","HHS Region 7","2015/2016",49,1.4,NA
+"4 wk ahead","HHS Region 7","2015/2016",50,1.6,NA
+"4 wk ahead","HHS Region 7","2015/2016",51,1.4,NA
+"4 wk ahead","HHS Region 7","2015/2016",52,1.1,NA
+"4 wk ahead","HHS Region 7","2015/2016",1,1.2,NA
+"4 wk ahead","HHS Region 7","2015/2016",2,1.2,NA
+"4 wk ahead","HHS Region 7","2015/2016",3,1.1,NA
+"4 wk ahead","HHS Region 7","2015/2016",4,1.5,NA
+"4 wk ahead","HHS Region 7","2015/2016",5,1.8,NA
+"4 wk ahead","HHS Region 7","2015/2016",6,1.8,NA
+"4 wk ahead","HHS Region 7","2015/2016",7,2.4,NA
+"4 wk ahead","HHS Region 7","2015/2016",8,2.5,NA
+"4 wk ahead","HHS Region 7","2015/2016",9,2,NA
+"4 wk ahead","HHS Region 7","2015/2016",10,2.1,NA
+"4 wk ahead","HHS Region 7","2015/2016",11,2.1,NA
+"4 wk ahead","HHS Region 7","2015/2016",12,1.5,NA
+"4 wk ahead","HHS Region 7","2015/2016",13,1.4,NA
+"4 wk ahead","HHS Region 7","2015/2016",14,1.2,NA
+"4 wk ahead","HHS Region 7","2015/2016",15,1,NA
+"4 wk ahead","HHS Region 7","2015/2016",16,0.9,NA
+"4 wk ahead","HHS Region 7","2015/2016",17,0.7,NA
+"4 wk ahead","HHS Region 7","2015/2016",18,0.6,NA
+"4 wk ahead","HHS Region 7","2015/2016",19,0.3,NA
+"4 wk ahead","HHS Region 7","2015/2016",20,0.4,NA
+"1 wk ahead","HHS Region 8","2015/2016",44,0.6,NA
+"1 wk ahead","HHS Region 8","2015/2016",45,0.7,NA
+"1 wk ahead","HHS Region 8","2015/2016",46,0.7,NA
+"1 wk ahead","HHS Region 8","2015/2016",47,0.8,NA
+"1 wk ahead","HHS Region 8","2015/2016",48,1,NA
+"1 wk ahead","HHS Region 8","2015/2016",49,0.7,NA
+"1 wk ahead","HHS Region 8","2015/2016",50,0.9,NA
+"1 wk ahead","HHS Region 8","2015/2016",51,0.9,NA
+"1 wk ahead","HHS Region 8","2015/2016",52,1.2,NA
+"1 wk ahead","HHS Region 8","2015/2016",1,1.5,NA
+"1 wk ahead","HHS Region 8","2015/2016",2,1.1,NA
+"1 wk ahead","HHS Region 8","2015/2016",3,1.2,NA
+"1 wk ahead","HHS Region 8","2015/2016",4,1.2,NA
+"1 wk ahead","HHS Region 8","2015/2016",5,1.3,NA
+"1 wk ahead","HHS Region 8","2015/2016",6,1.6,NA
+"1 wk ahead","HHS Region 8","2015/2016",7,1.8,NA
+"1 wk ahead","HHS Region 8","2015/2016",8,2.1,NA
+"1 wk ahead","HHS Region 8","2015/2016",9,2.2,NA
+"1 wk ahead","HHS Region 8","2015/2016",10,2,NA
+"1 wk ahead","HHS Region 8","2015/2016",11,2.1,NA
+"1 wk ahead","HHS Region 8","2015/2016",12,2.2,NA
+"1 wk ahead","HHS Region 8","2015/2016",13,1.9,NA
+"1 wk ahead","HHS Region 8","2015/2016",14,1.8,NA
+"1 wk ahead","HHS Region 8","2015/2016",15,1.6,NA
+"1 wk ahead","HHS Region 8","2015/2016",16,1.3,NA
+"1 wk ahead","HHS Region 8","2015/2016",17,1.1,NA
+"1 wk ahead","HHS Region 8","2015/2016",18,1,NA
+"1 wk ahead","HHS Region 8","2015/2016",19,1,NA
+"1 wk ahead","HHS Region 8","2015/2016",20,0.8,NA
+"2 wk ahead","HHS Region 8","2015/2016",44,0.7,NA
+"2 wk ahead","HHS Region 8","2015/2016",45,0.7,NA
+"2 wk ahead","HHS Region 8","2015/2016",46,0.8,NA
+"2 wk ahead","HHS Region 8","2015/2016",47,1,NA
+"2 wk ahead","HHS Region 8","2015/2016",48,0.7,NA
+"2 wk ahead","HHS Region 8","2015/2016",49,0.9,NA
+"2 wk ahead","HHS Region 8","2015/2016",50,0.9,NA
+"2 wk ahead","HHS Region 8","2015/2016",51,1.2,NA
+"2 wk ahead","HHS Region 8","2015/2016",52,1.5,NA
+"2 wk ahead","HHS Region 8","2015/2016",1,1.1,NA
+"2 wk ahead","HHS Region 8","2015/2016",2,1.2,NA
+"2 wk ahead","HHS Region 8","2015/2016",3,1.2,NA
+"2 wk ahead","HHS Region 8","2015/2016",4,1.3,NA
+"2 wk ahead","HHS Region 8","2015/2016",5,1.6,NA
+"2 wk ahead","HHS Region 8","2015/2016",6,1.8,NA
+"2 wk ahead","HHS Region 8","2015/2016",7,2.1,NA
+"2 wk ahead","HHS Region 8","2015/2016",8,2.2,NA
+"2 wk ahead","HHS Region 8","2015/2016",9,2,NA
+"2 wk ahead","HHS Region 8","2015/2016",10,2.1,NA
+"2 wk ahead","HHS Region 8","2015/2016",11,2.2,NA
+"2 wk ahead","HHS Region 8","2015/2016",12,1.9,NA
+"2 wk ahead","HHS Region 8","2015/2016",13,1.8,NA
+"2 wk ahead","HHS Region 8","2015/2016",14,1.6,NA
+"2 wk ahead","HHS Region 8","2015/2016",15,1.3,NA
+"2 wk ahead","HHS Region 8","2015/2016",16,1.1,NA
+"2 wk ahead","HHS Region 8","2015/2016",17,1,NA
+"2 wk ahead","HHS Region 8","2015/2016",18,1,NA
+"2 wk ahead","HHS Region 8","2015/2016",19,0.8,NA
+"2 wk ahead","HHS Region 8","2015/2016",20,0.7,NA
+"3 wk ahead","HHS Region 8","2015/2016",44,0.7,NA
+"3 wk ahead","HHS Region 8","2015/2016",45,0.8,NA
+"3 wk ahead","HHS Region 8","2015/2016",46,1,NA
+"3 wk ahead","HHS Region 8","2015/2016",47,0.7,NA
+"3 wk ahead","HHS Region 8","2015/2016",48,0.9,NA
+"3 wk ahead","HHS Region 8","2015/2016",49,0.9,NA
+"3 wk ahead","HHS Region 8","2015/2016",50,1.2,NA
+"3 wk ahead","HHS Region 8","2015/2016",51,1.5,NA
+"3 wk ahead","HHS Region 8","2015/2016",52,1.1,NA
+"3 wk ahead","HHS Region 8","2015/2016",1,1.2,NA
+"3 wk ahead","HHS Region 8","2015/2016",2,1.2,NA
+"3 wk ahead","HHS Region 8","2015/2016",3,1.3,NA
+"3 wk ahead","HHS Region 8","2015/2016",4,1.6,NA
+"3 wk ahead","HHS Region 8","2015/2016",5,1.8,NA
+"3 wk ahead","HHS Region 8","2015/2016",6,2.1,NA
+"3 wk ahead","HHS Region 8","2015/2016",7,2.2,NA
+"3 wk ahead","HHS Region 8","2015/2016",8,2,NA
+"3 wk ahead","HHS Region 8","2015/2016",9,2.1,NA
+"3 wk ahead","HHS Region 8","2015/2016",10,2.2,NA
+"3 wk ahead","HHS Region 8","2015/2016",11,1.9,NA
+"3 wk ahead","HHS Region 8","2015/2016",12,1.8,NA
+"3 wk ahead","HHS Region 8","2015/2016",13,1.6,NA
+"3 wk ahead","HHS Region 8","2015/2016",14,1.3,NA
+"3 wk ahead","HHS Region 8","2015/2016",15,1.1,NA
+"3 wk ahead","HHS Region 8","2015/2016",16,1,NA
+"3 wk ahead","HHS Region 8","2015/2016",17,1,NA
+"3 wk ahead","HHS Region 8","2015/2016",18,0.8,NA
+"3 wk ahead","HHS Region 8","2015/2016",19,0.7,NA
+"3 wk ahead","HHS Region 8","2015/2016",20,0.7,NA
+"4 wk ahead","HHS Region 8","2015/2016",44,0.8,NA
+"4 wk ahead","HHS Region 8","2015/2016",45,1,NA
+"4 wk ahead","HHS Region 8","2015/2016",46,0.7,NA
+"4 wk ahead","HHS Region 8","2015/2016",47,0.9,NA
+"4 wk ahead","HHS Region 8","2015/2016",48,0.9,NA
+"4 wk ahead","HHS Region 8","2015/2016",49,1.2,NA
+"4 wk ahead","HHS Region 8","2015/2016",50,1.5,NA
+"4 wk ahead","HHS Region 8","2015/2016",51,1.1,NA
+"4 wk ahead","HHS Region 8","2015/2016",52,1.2,NA
+"4 wk ahead","HHS Region 8","2015/2016",1,1.2,NA
+"4 wk ahead","HHS Region 8","2015/2016",2,1.3,NA
+"4 wk ahead","HHS Region 8","2015/2016",3,1.6,NA
+"4 wk ahead","HHS Region 8","2015/2016",4,1.8,NA
+"4 wk ahead","HHS Region 8","2015/2016",5,2.1,NA
+"4 wk ahead","HHS Region 8","2015/2016",6,2.2,NA
+"4 wk ahead","HHS Region 8","2015/2016",7,2,NA
+"4 wk ahead","HHS Region 8","2015/2016",8,2.1,NA
+"4 wk ahead","HHS Region 8","2015/2016",9,2.2,NA
+"4 wk ahead","HHS Region 8","2015/2016",10,1.9,NA
+"4 wk ahead","HHS Region 8","2015/2016",11,1.8,NA
+"4 wk ahead","HHS Region 8","2015/2016",12,1.6,NA
+"4 wk ahead","HHS Region 8","2015/2016",13,1.3,NA
+"4 wk ahead","HHS Region 8","2015/2016",14,1.1,NA
+"4 wk ahead","HHS Region 8","2015/2016",15,1,NA
+"4 wk ahead","HHS Region 8","2015/2016",16,1,NA
+"4 wk ahead","HHS Region 8","2015/2016",17,0.8,NA
+"4 wk ahead","HHS Region 8","2015/2016",18,0.7,NA
+"4 wk ahead","HHS Region 8","2015/2016",19,0.7,NA
+"4 wk ahead","HHS Region 8","2015/2016",20,0.7,NA
+"1 wk ahead","HHS Region 9","2015/2016",44,1.6,NA
+"1 wk ahead","HHS Region 9","2015/2016",45,1.8,NA
+"1 wk ahead","HHS Region 9","2015/2016",46,1.7,NA
+"1 wk ahead","HHS Region 9","2015/2016",47,2,NA
+"1 wk ahead","HHS Region 9","2015/2016",48,2.2,NA
+"1 wk ahead","HHS Region 9","2015/2016",49,2,NA
+"1 wk ahead","HHS Region 9","2015/2016",50,2,NA
+"1 wk ahead","HHS Region 9","2015/2016",51,2.1,NA
+"1 wk ahead","HHS Region 9","2015/2016",52,2.8,NA
+"1 wk ahead","HHS Region 9","2015/2016",1,3,NA
+"1 wk ahead","HHS Region 9","2015/2016",2,2.4,NA
+"1 wk ahead","HHS Region 9","2015/2016",3,2.4,NA
+"1 wk ahead","HHS Region 9","2015/2016",4,2.6,NA
+"1 wk ahead","HHS Region 9","2015/2016",5,2.8,NA
+"1 wk ahead","HHS Region 9","2015/2016",6,3.2,NA
+"1 wk ahead","HHS Region 9","2015/2016",7,4,NA
+"1 wk ahead","HHS Region 9","2015/2016",8,4.4,NA
+"1 wk ahead","HHS Region 9","2015/2016",9,3.9,NA
+"1 wk ahead","HHS Region 9","2015/2016",10,3.8,NA
+"1 wk ahead","HHS Region 9","2015/2016",11,3.8,NA
+"1 wk ahead","HHS Region 9","2015/2016",12,3.3,NA
+"1 wk ahead","HHS Region 9","2015/2016",13,3,NA
+"1 wk ahead","HHS Region 9","2015/2016",14,2.8,NA
+"1 wk ahead","HHS Region 9","2015/2016",15,2.3,NA
+"1 wk ahead","HHS Region 9","2015/2016",16,2,NA
+"1 wk ahead","HHS Region 9","2015/2016",17,1.8,NA
+"1 wk ahead","HHS Region 9","2015/2016",18,1.8,NA
+"1 wk ahead","HHS Region 9","2015/2016",19,1.8,NA
+"1 wk ahead","HHS Region 9","2015/2016",20,1.5,NA
+"2 wk ahead","HHS Region 9","2015/2016",44,1.8,NA
+"2 wk ahead","HHS Region 9","2015/2016",45,1.7,NA
+"2 wk ahead","HHS Region 9","2015/2016",46,2,NA
+"2 wk ahead","HHS Region 9","2015/2016",47,2.2,NA
+"2 wk ahead","HHS Region 9","2015/2016",48,2,NA
+"2 wk ahead","HHS Region 9","2015/2016",49,2,NA
+"2 wk ahead","HHS Region 9","2015/2016",50,2.1,NA
+"2 wk ahead","HHS Region 9","2015/2016",51,2.8,NA
+"2 wk ahead","HHS Region 9","2015/2016",52,3,NA
+"2 wk ahead","HHS Region 9","2015/2016",1,2.4,NA
+"2 wk ahead","HHS Region 9","2015/2016",2,2.4,NA
+"2 wk ahead","HHS Region 9","2015/2016",3,2.6,NA
+"2 wk ahead","HHS Region 9","2015/2016",4,2.8,NA
+"2 wk ahead","HHS Region 9","2015/2016",5,3.2,NA
+"2 wk ahead","HHS Region 9","2015/2016",6,4,NA
+"2 wk ahead","HHS Region 9","2015/2016",7,4.4,NA
+"2 wk ahead","HHS Region 9","2015/2016",8,3.9,NA
+"2 wk ahead","HHS Region 9","2015/2016",9,3.8,NA
+"2 wk ahead","HHS Region 9","2015/2016",10,3.8,NA
+"2 wk ahead","HHS Region 9","2015/2016",11,3.3,NA
+"2 wk ahead","HHS Region 9","2015/2016",12,3,NA
+"2 wk ahead","HHS Region 9","2015/2016",13,2.8,NA
+"2 wk ahead","HHS Region 9","2015/2016",14,2.3,NA
+"2 wk ahead","HHS Region 9","2015/2016",15,2,NA
+"2 wk ahead","HHS Region 9","2015/2016",16,1.8,NA
+"2 wk ahead","HHS Region 9","2015/2016",17,1.8,NA
+"2 wk ahead","HHS Region 9","2015/2016",18,1.8,NA
+"2 wk ahead","HHS Region 9","2015/2016",19,1.5,NA
+"2 wk ahead","HHS Region 9","2015/2016",20,1.5,NA
+"3 wk ahead","HHS Region 9","2015/2016",44,1.7,NA
+"3 wk ahead","HHS Region 9","2015/2016",45,2,NA
+"3 wk ahead","HHS Region 9","2015/2016",46,2.2,NA
+"3 wk ahead","HHS Region 9","2015/2016",47,2,NA
+"3 wk ahead","HHS Region 9","2015/2016",48,2,NA
+"3 wk ahead","HHS Region 9","2015/2016",49,2.1,NA
+"3 wk ahead","HHS Region 9","2015/2016",50,2.8,NA
+"3 wk ahead","HHS Region 9","2015/2016",51,3,NA
+"3 wk ahead","HHS Region 9","2015/2016",52,2.4,NA
+"3 wk ahead","HHS Region 9","2015/2016",1,2.4,NA
+"3 wk ahead","HHS Region 9","2015/2016",2,2.6,NA
+"3 wk ahead","HHS Region 9","2015/2016",3,2.8,NA
+"3 wk ahead","HHS Region 9","2015/2016",4,3.2,NA
+"3 wk ahead","HHS Region 9","2015/2016",5,4,NA
+"3 wk ahead","HHS Region 9","2015/2016",6,4.4,NA
+"3 wk ahead","HHS Region 9","2015/2016",7,3.9,NA
+"3 wk ahead","HHS Region 9","2015/2016",8,3.8,NA
+"3 wk ahead","HHS Region 9","2015/2016",9,3.8,NA
+"3 wk ahead","HHS Region 9","2015/2016",10,3.3,NA
+"3 wk ahead","HHS Region 9","2015/2016",11,3,NA
+"3 wk ahead","HHS Region 9","2015/2016",12,2.8,NA
+"3 wk ahead","HHS Region 9","2015/2016",13,2.3,NA
+"3 wk ahead","HHS Region 9","2015/2016",14,2,NA
+"3 wk ahead","HHS Region 9","2015/2016",15,1.8,NA
+"3 wk ahead","HHS Region 9","2015/2016",16,1.8,NA
+"3 wk ahead","HHS Region 9","2015/2016",17,1.8,NA
+"3 wk ahead","HHS Region 9","2015/2016",18,1.5,NA
+"3 wk ahead","HHS Region 9","2015/2016",19,1.5,NA
+"3 wk ahead","HHS Region 9","2015/2016",20,1.4,NA
+"4 wk ahead","HHS Region 9","2015/2016",44,2,NA
+"4 wk ahead","HHS Region 9","2015/2016",45,2.2,NA
+"4 wk ahead","HHS Region 9","2015/2016",46,2,NA
+"4 wk ahead","HHS Region 9","2015/2016",47,2,NA
+"4 wk ahead","HHS Region 9","2015/2016",48,2.1,NA
+"4 wk ahead","HHS Region 9","2015/2016",49,2.8,NA
+"4 wk ahead","HHS Region 9","2015/2016",50,3,NA
+"4 wk ahead","HHS Region 9","2015/2016",51,2.4,NA
+"4 wk ahead","HHS Region 9","2015/2016",52,2.4,NA
+"4 wk ahead","HHS Region 9","2015/2016",1,2.6,NA
+"4 wk ahead","HHS Region 9","2015/2016",2,2.8,NA
+"4 wk ahead","HHS Region 9","2015/2016",3,3.2,NA
+"4 wk ahead","HHS Region 9","2015/2016",4,4,NA
+"4 wk ahead","HHS Region 9","2015/2016",5,4.4,NA
+"4 wk ahead","HHS Region 9","2015/2016",6,3.9,NA
+"4 wk ahead","HHS Region 9","2015/2016",7,3.8,NA
+"4 wk ahead","HHS Region 9","2015/2016",8,3.8,NA
+"4 wk ahead","HHS Region 9","2015/2016",9,3.3,NA
+"4 wk ahead","HHS Region 9","2015/2016",10,3,NA
+"4 wk ahead","HHS Region 9","2015/2016",11,2.8,NA
+"4 wk ahead","HHS Region 9","2015/2016",12,2.3,NA
+"4 wk ahead","HHS Region 9","2015/2016",13,2,NA
+"4 wk ahead","HHS Region 9","2015/2016",14,1.8,NA
+"4 wk ahead","HHS Region 9","2015/2016",15,1.8,NA
+"4 wk ahead","HHS Region 9","2015/2016",16,1.8,NA
+"4 wk ahead","HHS Region 9","2015/2016",17,1.5,NA
+"4 wk ahead","HHS Region 9","2015/2016",18,1.5,NA
+"4 wk ahead","HHS Region 9","2015/2016",19,1.4,NA
+"4 wk ahead","HHS Region 9","2015/2016",20,1.4,NA
+"1 wk ahead","US National","2015/2016",44,1.4,NA
+"1 wk ahead","US National","2015/2016",45,1.5,NA
+"1 wk ahead","US National","2015/2016",46,1.5,NA
+"1 wk ahead","US National","2015/2016",47,1.6,NA
+"1 wk ahead","US National","2015/2016",48,1.9,NA
+"1 wk ahead","US National","2015/2016",49,1.7,NA
+"1 wk ahead","US National","2015/2016",50,1.8,NA
+"1 wk ahead","US National","2015/2016",51,1.9,NA
+"1 wk ahead","US National","2015/2016",52,2.4,NA
+"1 wk ahead","US National","2015/2016",1,2.5,NA
+"1 wk ahead","US National","2015/2016",2,2,NA
+"1 wk ahead","US National","2015/2016",3,2,NA
+"1 wk ahead","US National","2015/2016",4,2.2,NA
+"1 wk ahead","US National","2015/2016",5,2.3,NA
+"1 wk ahead","US National","2015/2016",6,2.4,NA
+"1 wk ahead","US National","2015/2016",7,2.8,NA
+"1 wk ahead","US National","2015/2016",8,3.2,NA
+"1 wk ahead","US National","2015/2016",9,3.2,NA
+"1 wk ahead","US National","2015/2016",10,3.3,NA
+"1 wk ahead","US National","2015/2016",11,3.6,NA
+"1 wk ahead","US National","2015/2016",12,3.1,NA
+"1 wk ahead","US National","2015/2016",13,2.8,NA
+"1 wk ahead","US National","2015/2016",14,2.5,NA
+"1 wk ahead","US National","2015/2016",15,2,NA
+"1 wk ahead","US National","2015/2016",16,2,NA
+"1 wk ahead","US National","2015/2016",17,1.9,NA
+"1 wk ahead","US National","2015/2016",18,1.7,NA
+"1 wk ahead","US National","2015/2016",19,1.6,NA
+"1 wk ahead","US National","2015/2016",20,1.4,NA
+"2 wk ahead","US National","2015/2016",44,1.5,NA
+"2 wk ahead","US National","2015/2016",45,1.5,NA
+"2 wk ahead","US National","2015/2016",46,1.6,NA
+"2 wk ahead","US National","2015/2016",47,1.9,NA
+"2 wk ahead","US National","2015/2016",48,1.7,NA
+"2 wk ahead","US National","2015/2016",49,1.8,NA
+"2 wk ahead","US National","2015/2016",50,1.9,NA
+"2 wk ahead","US National","2015/2016",51,2.4,NA
+"2 wk ahead","US National","2015/2016",52,2.5,NA
+"2 wk ahead","US National","2015/2016",1,2,NA
+"2 wk ahead","US National","2015/2016",2,2,NA
+"2 wk ahead","US National","2015/2016",3,2.2,NA
+"2 wk ahead","US National","2015/2016",4,2.3,NA
+"2 wk ahead","US National","2015/2016",5,2.4,NA
+"2 wk ahead","US National","2015/2016",6,2.8,NA
+"2 wk ahead","US National","2015/2016",7,3.2,NA
+"2 wk ahead","US National","2015/2016",8,3.2,NA
+"2 wk ahead","US National","2015/2016",9,3.3,NA
+"2 wk ahead","US National","2015/2016",10,3.6,NA
+"2 wk ahead","US National","2015/2016",11,3.1,NA
+"2 wk ahead","US National","2015/2016",12,2.8,NA
+"2 wk ahead","US National","2015/2016",13,2.5,NA
+"2 wk ahead","US National","2015/2016",14,2,NA
+"2 wk ahead","US National","2015/2016",15,2,NA
+"2 wk ahead","US National","2015/2016",16,1.9,NA
+"2 wk ahead","US National","2015/2016",17,1.7,NA
+"2 wk ahead","US National","2015/2016",18,1.6,NA
+"2 wk ahead","US National","2015/2016",19,1.4,NA
+"2 wk ahead","US National","2015/2016",20,1.3,NA
+"3 wk ahead","US National","2015/2016",44,1.5,NA
+"3 wk ahead","US National","2015/2016",45,1.6,NA
+"3 wk ahead","US National","2015/2016",46,1.9,NA
+"3 wk ahead","US National","2015/2016",47,1.7,NA
+"3 wk ahead","US National","2015/2016",48,1.8,NA
+"3 wk ahead","US National","2015/2016",49,1.9,NA
+"3 wk ahead","US National","2015/2016",50,2.4,NA
+"3 wk ahead","US National","2015/2016",51,2.5,NA
+"3 wk ahead","US National","2015/2016",52,2,NA
+"3 wk ahead","US National","2015/2016",1,2,NA
+"3 wk ahead","US National","2015/2016",2,2.2,NA
+"3 wk ahead","US National","2015/2016",3,2.3,NA
+"3 wk ahead","US National","2015/2016",4,2.4,NA
+"3 wk ahead","US National","2015/2016",5,2.8,NA
+"3 wk ahead","US National","2015/2016",6,3.2,NA
+"3 wk ahead","US National","2015/2016",7,3.2,NA
+"3 wk ahead","US National","2015/2016",8,3.3,NA
+"3 wk ahead","US National","2015/2016",9,3.6,NA
+"3 wk ahead","US National","2015/2016",10,3.1,NA
+"3 wk ahead","US National","2015/2016",11,2.8,NA
+"3 wk ahead","US National","2015/2016",12,2.5,NA
+"3 wk ahead","US National","2015/2016",13,2,NA
+"3 wk ahead","US National","2015/2016",14,2,NA
+"3 wk ahead","US National","2015/2016",15,1.9,NA
+"3 wk ahead","US National","2015/2016",16,1.7,NA
+"3 wk ahead","US National","2015/2016",17,1.6,NA
+"3 wk ahead","US National","2015/2016",18,1.4,NA
+"3 wk ahead","US National","2015/2016",19,1.3,NA
+"3 wk ahead","US National","2015/2016",20,1.2,NA
+"4 wk ahead","US National","2015/2016",44,1.6,NA
+"4 wk ahead","US National","2015/2016",45,1.9,NA
+"4 wk ahead","US National","2015/2016",46,1.7,NA
+"4 wk ahead","US National","2015/2016",47,1.8,NA
+"4 wk ahead","US National","2015/2016",48,1.9,NA
+"4 wk ahead","US National","2015/2016",49,2.4,NA
+"4 wk ahead","US National","2015/2016",50,2.5,NA
+"4 wk ahead","US National","2015/2016",51,2,NA
+"4 wk ahead","US National","2015/2016",52,2,NA
+"4 wk ahead","US National","2015/2016",1,2.2,NA
+"4 wk ahead","US National","2015/2016",2,2.3,NA
+"4 wk ahead","US National","2015/2016",3,2.4,NA
+"4 wk ahead","US National","2015/2016",4,2.8,NA
+"4 wk ahead","US National","2015/2016",5,3.2,NA
+"4 wk ahead","US National","2015/2016",6,3.2,NA
+"4 wk ahead","US National","2015/2016",7,3.3,NA
+"4 wk ahead","US National","2015/2016",8,3.6,NA
+"4 wk ahead","US National","2015/2016",9,3.1,NA
+"4 wk ahead","US National","2015/2016",10,2.8,NA
+"4 wk ahead","US National","2015/2016",11,2.5,NA
+"4 wk ahead","US National","2015/2016",12,2,NA
+"4 wk ahead","US National","2015/2016",13,2,NA
+"4 wk ahead","US National","2015/2016",14,1.9,NA
+"4 wk ahead","US National","2015/2016",15,1.7,NA
+"4 wk ahead","US National","2015/2016",16,1.6,NA
+"4 wk ahead","US National","2015/2016",17,1.4,NA
+"4 wk ahead","US National","2015/2016",18,1.3,NA
+"4 wk ahead","US National","2015/2016",19,1.2,NA
+"4 wk ahead","US National","2015/2016",20,1.2,NA
