@@ -94,38 +94,10 @@ create_point <- function(ensemble_probs) {
   
   points <- ensemble_probs %>%
               group_by(location, target) %>%
-              # Season onset has `none` as a possible bin_start_incl thus we
-              # exclude it from the point forecast by turning bin_start_incl
-              # into numeric and removing the none with na.omit
-              mutate(probability = value/sum(value),
-                            value       = suppressWarnings(as.numeric(bin_start_incl))) %>%
-              na.omit() 
-            
-  
-  # Adjust week values in new year to keep in proper order
-  points$value[points$unit == "week" & points$value < 40] <- 
-    points$value[points$unit == "week" & points$value < 40] +52
-              
-  points <- points %>%
-              summarize(value = sum(value*probability)) %>%
-              mutate(type = "Point") %>%
-              ungroup
- 
-  # Add units
-  points$unit <- NA
-  points$unit[points$target %in% c("Season onset", "Season peak week")] <- "week"
-  points$unit[!(points$target %in% c("Season onset", "Season peak week"))] <- "percent"
-
-  # Round point forecasts as needed
-  points$value[points$unit == "week"] <- 
-    round(points$value[points$unit == "week"], 0)
-  points$value[points$unit == "percent"] <- 
-    round(points$value[points$unit == "percent"], 1)
-  
-  # Reset any week point values >52
-  points$value[points$unit == "week" & points$value > 52] <- 
-    points$value[points$unit == "week" & points$value >52] - 52
-  
+              summarize(value = max(value)) %>%
+              inner_join(ensemble_probs, by = c("location", "target", "value")) %>%
+              select(location, target, type, unit, 
+                     value = bin_start_incl)
   
   return(points)
   
