@@ -1,34 +1,49 @@
 rm(list=ls())
 
-##### Packages #####
+# Packages 
 require(dplyr)
 
-# Set directories ---------------------------------------------------
-setwd("..") # Set working directory one level up to access data more easily
-dir_2015 <- "Data/2015-2016/"
-dir_2016 <- "Data/2016-2017/"
+# Set data directories --------------------------------------------------------
+dir_2015 <- "../Data/2015-2016/"
+dir_2016 <- "../Data/2016-2017/"
 
-# Get forecast data -------------------------------------------------
-source("Unweighted_Average/R/import_forecasts.R")
-forecast_data <- import_forecasts(dir_2015, forecast_wk = 12)
-
-##### Create equal weight ensemble forecast for 2015/2016 season #####
-weights <- data.frame(team = unique(forecast_data$team),
-                      weight = rep(1/length(unique(forecast_data$team)),
-                                   length(unique(forecast_data$team))))
-
-#Create shell to hold results
-source("Unweighted_Average/R/create_ensemble.R")
-
-ensemble <- create_ensemble(forecast_data, forecast_wk = 12)
-
-wk_results <- NULL
+# Include necessary functions
+source("R/create_ensemble.R")
 
 
+# Generate forecast for a particular week ----------------------------------
 
+# Set year and MMWR week forecasts are based on - must be character
+forecast_week <- "52"
+
+# Create ensemble
+ensemble <- create_ensemble(dir_2015, forecast_week)
 
 #Output to csv
-write.table(ensemble_data, file="Ensemble_Team_Forecasts.csv", sep=",",
-            row.names=F,col.names=T)
+out_dir <- "Forecasts/2015-2016/"
+
+forecast_date <- get_forecast_date(dir_2015, forecast_week)
+
+write.table(ensemble, file = paste0(out_dir, "EW", forecast_week, 
+                                    "_UnwghtAvg_", forecast_date, ".csv"),
+            sep = ",", row.names = FALSE)
 
 
+# Generate forecasts for multiple weeks ---------------------------------------
+
+# Set MMWR weeks to forecast
+forecast_weeks <- c("44", "45", "46")
+
+# Set output directory
+out_dir <- "Forecasts/2015-2016/"
+
+for (this_week in forecast_weeks) {
+  # Create ensemble
+  ensemble <- create_ensemble(dir_2015, this_week)
+  
+  forecast_date <- get_forecast_date(dir_2015, this_week)
+  
+  write.table(ensemble, file = paste0(out_dir, "EW", this_week, 
+                                      "_UnwghtAvg_", forecast_date, ".csv"),
+              sep = ",", row.names = FALSE)
+}
