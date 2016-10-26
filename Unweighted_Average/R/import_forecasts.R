@@ -7,6 +7,7 @@ import_forecasts <- function(this_dir, forecast_wk) {
   
   # Only take files of week of interest
   these_files <- grep(paste0("EW", forecast_wk), file_names, value = TRUE)
+  if (length(these_files) == 0) stop("No files found for that week; check week number")
   # these_files <- file_names
   forecast_data <- data.frame()
   for (this_file in these_files) {
