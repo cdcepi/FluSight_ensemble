@@ -1,6 +1,6 @@
 require(dplyr)
 
-source("Unweighted_Average/R/import_forecasts.R")
+source("R/import_forecasts.R")
 
 create_ensemble <- function(this_dir, this_week) {
   
