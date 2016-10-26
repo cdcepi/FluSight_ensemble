@@ -10,7 +10,7 @@ import_forecasts <- function(this_dir, forecast_wk) {
   # these_files <- file_names
   forecast_data <- data.frame()
   for (this_file in these_files) {
-    if (grepl("\\.csv", this_file) & !(grepl("Target", this_file))) {
+    if (grepl("\\.csv", this_file)) {
       this_sub <- read.csv(paste0(this_dir, this_file),
                             stringsAsFactors = FALSE) #%>%
                           # mutate(forecast_wk = as.numeric(gsub("EW","",regmatches(this_file,
