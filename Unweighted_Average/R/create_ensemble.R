@@ -97,7 +97,10 @@ create_point <- function(ensemble_probs) {
               summarize(value = max(value)) %>%
               inner_join(ensemble_probs, by = c("location", "target", "value")) %>%
               select(location, target, type, unit, 
-                     value = bin_start_incl)
+                     value = bin_start_incl) %>%
+              mutate(type = "Point",
+                     value = suppressWarnings(as.numeric(value))) %>%
+              ungroup
   
   return(points)
   
