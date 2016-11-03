@@ -64,7 +64,8 @@ create_probs <- function(forecast_data) {
   percent <- ensemble %>%
               filter(unit == "percent") %>%
               mutate(bin_start_incl = as.numeric(bin_start_incl)) %>%
-              arrange(location, target, bin_start_incl)
+              arrange(location, target, bin_start_incl) %>%
+              mutate(bin_start_incl = as.character(bin_start_incl))
   
   weeks <- ensemble %>%
               filter(unit == "week") %>%
