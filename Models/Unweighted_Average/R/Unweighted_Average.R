@@ -4,8 +4,8 @@ rm(list=ls())
 require(dplyr)
 
 # Set data directories --------------------------------------------------------
-dir_2015 <- "../Data/2015-2016/"
-dir_2016 <- "../Data/2016-2017/"
+dir_2015 <- "../../Data/2015-2016/"
+dir_2016 <- "../../Data/2016-2017/"
 
 # Include necessary functions
 source("R/create_ensemble.R")

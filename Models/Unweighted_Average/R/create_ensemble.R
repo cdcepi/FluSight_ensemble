@@ -84,7 +84,7 @@ create_probs <- function(forecast_data) {
   weeks$bin_start_incl[weeks$bin_end_notincl == "none"] <- "none"
   
   # Recombine weeks and percents to output
-  output <- rbind(percent, weeks)
+  output <- bind_rows(percent, weeks)
 
   return(output)
 }
@@ -94,12 +94,13 @@ create_point <- function(ensemble_probs) {
   
   points <- ensemble_probs %>%
               group_by(location, target) %>%
-              summarize(value = max(value)) %>%
-              inner_join(ensemble_probs, by = c("location", "target", "value")) %>%
-              select(location, target, type, unit, 
-                     value = bin_start_incl) %>%
+              mutate(cumsum = cumsum(value)) %>%
+              filter(row_number() == min(which(cumsum > 0.5))) %>%
+              select(-cumsum) %>%
               mutate(type = "Point",
-                     value = suppressWarnings(as.numeric(value))) %>%
+                     value = suppressWarnings(as.numeric(bin_start_incl)),
+                     bin_start_incl = NA,
+                     bin_end_notincl = NA) %>%
               ungroup
   
   return(points)
