@@ -1,4 +1,5 @@
 require(dplyr)
+require(FluSight)
 
 
 import_forecasts <- function(this_dir, this_week) {
@@ -9,13 +10,22 @@ import_forecasts <- function(this_dir, this_week) {
   these_files <- grep(paste0("EW", this_week), file_names, value = TRUE)
   if (length(these_files) == 0) stop("No files found for that week; check week number")
   
+  # Remove historical average predictions - only want to average submitted models
+  if (any(grepl("Hist-Avg", these_files))) these_files <- these_files[-(grep("Hist-Avg", these_files))]
+  
   # these_files <- file_names
   forecast_data <- data.frame()
+
   for (this_file in these_files) {
-      this_sub <- read.csv(paste0(this_dir, this_file),
-                            stringsAsFactors = FALSE) 
+    
+      this_sub <- read_entry(paste0(this_dir, this_file)) %>%
+                    filter(type == "Bin")
+
+      this_sub$forecast_week <- NULL
+
       forecast_data <- rbind(forecast_data, this_sub)
   }
+
   return(forecast_data)
 }
 
@@ -29,3 +39,5 @@ get_forecast_date <- function(this_dir, this_week) {
                                                  this_file))
   return(forecast_date)
 }
+
+?grepl

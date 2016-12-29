@@ -5,13 +5,13 @@ source("R/import_forecasts.R")
 create_ensemble <- function(this_dir, this_week) {
   
   forecast_data <- import_forecasts(this_dir, this_week)
-  
+
   probs <- create_probs(forecast_data)
   
   points <- create_point(probs)
   
   entry <- bind_rows(probs, points)
-  
+ 
   # Reorder to match valid entry
   region.order <- c("US National", "HHS Region 1", "HHS Region 2", "HHS Region 3", "HHS Region 4",
                     "HHS Region 5", "HHS Region 6", "HHS Region 7", "HHS Region 8",
@@ -36,12 +36,13 @@ create_probs <- function(forecast_data) {
   # Create ensemble probabilities
   ensemble <- forecast_data %>%
                 filter(type == "Bin") %>%
-                group_by(location, target, type, unit, bin_start_incl, 
+                na.omit() %>%
+                group_by(location, target, type, unit, bin_start_incl,
                          bin_end_notincl) %>%
                 summarize(avg = mean(value)) %>%
                 rename(value = avg) %>%
                 ungroup
-   
+
   # Normalize all probabilities so they sum to 1
   to_normal <- ensemble %>%
                 group_by(location, target) %>%
