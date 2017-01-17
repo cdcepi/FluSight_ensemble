@@ -39,5 +39,3 @@ get_forecast_date <- function(this_dir, this_week) {
                                                  this_file))
   return(forecast_date)
 }
-
-?grepl

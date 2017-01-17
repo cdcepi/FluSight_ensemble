@@ -15,7 +15,7 @@ source("R/create_ensemble.R")
 # Generate forecast for a particular week ----------------------------------
 
 # Set year and MMWR week forecasts are based on - must be character
-forecast_week <- "50"
+forecast_week <- "52"
 
 # Create ensemble
 ensemble <- create_ensemble(dir_2016, forecast_week)
